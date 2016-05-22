@@ -25,4 +25,9 @@ Here is how the Code of Conduct is presented on djangoproject.com:
 - [Enforcement Manual](https://www.djangoproject.com/conduct/enforcement-manual/)
 - [Django Software Foundation Code of Conduct requirement](https://www.djangoproject.com/foundation/code-of-conduct/)
 
+## License
+
+All content in this repository is licensed under a [Creative Commons Attribution](http://creativecommons.org/licenses/by/3.0/) license.
+
+
 
