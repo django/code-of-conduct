@@ -7,11 +7,12 @@
 In the spirit of transparency, we're sharing numbers of Code of Conduct violations that were reported to the Code of Conduct 
 committee in the recent years. 
 
-| Year	| Reports	| Action by DSF | Action by local reps|
+| Year	| Reports	| Action taken by us | Action taken by local reps|
 |-------|---------|---------------|---------------------|
-|2015	  |9	      |1	            |6                    |
-|2016	  |6	      |2	            |6                    |
+|2015	  |12	      |1	            |7                    |
+|2016	  |8	      |2	            |7                    |
 
+Statistics were last updated on 22nd May 2016.
 
 
 
