@@ -4,7 +4,28 @@
 
 ## Code of Conduct transparency
 
-> Work in progress
+Code of Conduct committee aims to be transparent with the wider community about
+work we do, way we do it and outcomes, while protecting people who trust us
+in maintaining the confidentiality of reported issues. 
+
+There are several ways in which we are transparent right now:
+
+- **Publishing documentation**  
+  We believe that publishing documentation about the way we work in form of 
+  this document keeps as accountable and allows the Django community to have a 
+  an insight into processes guiding our decisions, as well as suggest changes
+  and improvements.
+  
+- **Publishing statistics**  
+  Numbers of received reports and actions taken are published in the [statistics
+  chapter](statistics.md) of this documentation to shed a light on volume of 
+  issues that the committee deals with. 
+  
+- **Quaterly transparency report**  
+  Every 3 months, a transparency report with anonymized summaries of received 
+  reports is added to this documentation. 
+
+We welcome suggestions on improving the transparency of the committee. 
 
 ----
 
