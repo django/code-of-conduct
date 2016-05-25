@@ -4,7 +4,7 @@
 
 ## Report handling procedure
 
-This document aims to present the way we handle received reports. This is not a complete guide, or a template we absolutely always follow. Each issue is different and requires individual consideration on case-to-case basis. However, this is a set of guidelines or best practices that guide the way we provide support to the community.
+This document aims to present the way we handle received reports. This is not a complete guide, but a set of guidelines or best practices that guide the way we provide support to the community. Each issue is different and requires individual consideration on a case-to-case basis.
 
 ### Types of received reports
 
@@ -15,17 +15,17 @@ In general, almost all reports we receive can be categorized into two groups:
 
 ### How we receive reports
 
-All reports received by us are usually sent to [conduct@djangoproject.com](mailto:conduct@djangoproject.com) email address that is automatically forwarding all incoming correspondence to each member of the committee. 
+All reports received by us are usually sent to [conduct@djangoproject.com](mailto:conduct@djangoproject.com) email address that is automatically forwarded to each member of the committee.
 
 We're looking into more ways to make it as easy for people as possible to report an issue. Feedback on that matter would be throughly appreciated.
 
 ### On-call duty
 
-In order to achieve a fast response time to received reports, we implemented a week long on-call duty. Every week we assign one member of the Code of Conduct committee to be the primary person on duty, and another member to be a secondary supporter. On-call duty ends and finishes every Monday at noon UTC, when a reminder is sent to conduct@djangoproject.com with information who is the next primary and secondary member on-duty following week. Schedule is managed via spreadsheet. If a member won't be available on given week, they should exchange their week with another member.
+In order to achieve a fast response time to received reports, we implement a week long on-call duty. Every week we assign one member of the Code of Conduct committee to be the primary person on duty, and another member to be a secondary supporter. On-call duty ends and finishes every Monday at noon UTC, when a reminder is sent to conduct@djangoproject.com with information who is the next primary and secondary member on-duty following week. Schedule is managed via spreadsheet. If a member won't be available on given week, they should exchange their week with another member.
 
 ![Spreadsheet](https://docs.google.com/a/sitarska.com/uc?authuser=0&id=0B_sMcBckSgWqX1p5cm50UmQ1VVk)
 
-**Primary person on duty** is responsible to providing the initial response to a reporter, ideally within half a day. They're also responsible for either shepherding the received issue, or finding another member of the committee who will commit to shepherding it.
+**Primary person on duty** is responsible for providing the initial response to a reporter, ideally within half a day. They're also responsible for either shepherding the received issue, or finding another member of the committee who will commit to shepherding it.
 
 **Secondary person on duty** inherits the responsibilities of the primary person if they're not available.
 
