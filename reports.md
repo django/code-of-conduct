@@ -70,7 +70,6 @@ We aim to resolve any report received within a week.
 > TODO: Issue #7 Add information about shepherding the issue
 > TODO: Issue #7 Add information about decision making process
 > TODO: Issue #7 Add link to Enforcement Manual for a list of available sanctions
-> TODO: Issue #9 Describe flagging and blacklisting
 
 ### Closing checklist
 
@@ -78,4 +77,6 @@ We aim to resolve any report received within a week.
 
 ----
 
-[Go to next chapter: Data retention](data-retention.md) :point_right:
+[Go to next chapter: Record-keeping](records.md) :point_right:
+
+[statistics]: statistics.md
