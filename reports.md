@@ -78,5 +78,3 @@ We aim to resolve any report received within a week.
 ----
 
 [Go to next chapter: Record-keeping](records.md) :point_right:
-
-[statistics]: statistics.md

@@ -26,3 +26,5 @@ These records are used to form our [statistics].
 ----
 
 [Go to next chapter: Support for conference organizers](conferences.md) :point_right:
+
+[statistics]: statistics.md
