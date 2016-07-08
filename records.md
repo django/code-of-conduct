@@ -20,7 +20,9 @@ These records are used to form our [statistics](statistics.md).
 
 ## Data retention of records
 
-Records are currently stored in a Google Spreadsheet shared between members of the committee explicitly. Committee insists on not sharing the records outside the members. Once a member steps down from the committee, their access to the records is removed.
+Records are currently stored in a Google Spreadsheet shared between members of the committee explicitly. Committee insists on not sharing the records outside the members and confidentiality of information. Failure to achieve that would effect in removing a member at fault from the committee.
+
+Once a member steps down from the committee, their access to the records is removed. Newly added committee member receives access to all previous records too. 
 
 We realise this is quite risky and not an ideal solution, but thus far committee didn't have sufficient resources to create a better solution. We're hoping to build a more robust system with better access control functionalities that will allow us better to protect identities of people making reports, as well as offenders. 
 
