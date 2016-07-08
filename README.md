@@ -1,6 +1,6 @@
 # Django Code of Conduct
 
-On 31st July 2013, [Django community adopted a Code of Conduct](https://www.djangoproject.com/weblog/2013/jul/31/django-adopts-code-of-conduct/). This documentation aims to transparently describe  how Django Code of Conduct committee enforced the Code of Conduct and how it all works behind the scenes. 
+On 31st July 2013, [Django community adopted a Code of Conduct](https://www.djangoproject.com/weblog/2013/jul/31/django-adopts-code-of-conduct/). This documentation aims to transparently describe how Django Code of Conduct committee enforces the Code of Conduct and how it all works behind the scenes. 
 
 There is still a lot we're figuring out and learning as we go, so we don't consider this documentation to be finished or complete. However, we hope it's going to be useful base for other communities to not only adopt, but also implement and enforce the Code of Conduct. 
 
@@ -10,7 +10,7 @@ There is still a lot we're figuring out and learning as we go, so we don't consi
 - [Report handling procedure](reports.md)
 - [Record-keeping](records.md)
 - [Support for conference organizers](conferences.md)
-- [Code of Conduct transparency](transparency.md)
+- [Transparency](transparency.md)
 - [Statistics](statistics.md)
 
 ## Related material
