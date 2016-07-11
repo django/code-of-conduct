@@ -20,19 +20,17 @@ These records are used to form our [statistics](statistics.md).
 
 ## Data retention of records
 
-Records are currently stored in a Google Spreadsheet shared between members of the committee explicitly. Committee insists on not sharing the records outside the members and confidentiality of information. Failure to achieve that would effect in removing a member at fault from the committee.
+Records are currently stored in a Google Spreadsheet and shared between members of the committee only. The committee insists on not sharing the records outside the members due to confidentiality of information. Violating this will result in removal of the member from the committee.
 
 Once a member steps down from the committee, their access to the records is removed. Newly added committee member receives access to all previous records too. 
 
-We realise this is quite risky and not an ideal solution, but thus far committee didn't have sufficient resources to create a better solution. We're hoping to build a more robust system with better access control functionalities that will allow us better to protect identities of people making reports, as well as offenders. 
-
 ## Information from e-mails
 
-Members only have access to e-mails incoming to conduct@djangoproject.com since they become members of the committee. Members cannot access emails from the time before they joined. 
+Members only have access to e-mails incoming to conduct@djangoproject.com whilst they are members of the committee.
 
 ## Slack
 
-Slack discussions are only visible to current members of the committee, although newly joined members can also see past conversations. We're hoping to never discuss sensitive information on Slack, but rather use it for quick coordination of our actions. 
+Slack is not used for discussing sensitive information, only for quick coordination of actions.
 
 ----
 
