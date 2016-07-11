@@ -3,8 +3,8 @@
 This repository is used by Django Software Foundation Code of Conduct committee to transparently describe how the committee enforces the Code of Conduct for Django community. It's our internal set of documentation with processes that drive our work that we decided to make public with an aim to:
 
 - keep ourselves accountable to the community
-- offer Django community an insight into how decisions are made and issues are dealt with
-- help other tech communities not only establish, but also enforce their Code of Conduct
+- offer the Django community an insight into how decisions are made and issues are dealt with
+- help other tech communities not only to establish, but also enforce their Code of Conduct
 - improve our processes with feedback received from the wider tech community
 
 ## Contributing to this repository
