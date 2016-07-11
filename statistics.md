@@ -4,13 +4,13 @@
 
 ## Statistics
 
-In the spirit of transparency, we're sharing numbers of Code of Conduct violations that were reported to the Code of Conduct 
-committee in the recent years. 
+In the spirit of transparency, we're sharing numbers of Code of Conduct violations that were reported to the Code of Conduct
+committee in the recent years.
 
-| Year	| Reports	| People named | Actions taken by us | Actions taken by local reps | People blacklisted or flagged | Lack of actions taken |
-|-------|-------|-------|-------|-------|-------|-------|
-|2015	  |11      |14	    |1	    |6      |1      |4      |
-|2016	  |7	    |6      |2	    |7      |1      |0      |
+| Year | Reports | People named | Actions taken by us | Actions taken by local reps | People blacklisted or flagged | Lack of actions taken |
+|:-----|:--------|:-------------|:--------------------|:----------------------------|:------------------------------|:----------------------|
+| 2015 | 11      | 14           | 1                   | 6                           | 1                             | 4                     |
+| 2016 | 7       | 6            | 2                   | 7                           | 1                             | 0                     |
 
 Statistics were last updated on 25th May 2016.
 
