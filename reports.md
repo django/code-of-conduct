@@ -21,9 +21,9 @@ We're looking into more ways to make it as easy for people as possible to report
 
 ### On-call duty
 
-In order to achieve a fast response time to received reports, we implement a week long on-call duty. Every week we assign one member of the Code of Conduct committee to be the primary person on duty, and another member to be a secondary supporter. On-call duty ends and finishes every Monday at noon UTC, when a reminder is sent to conduct@djangoproject.com with information who is the next primary and secondary member on-duty following week. Schedule is managed via spreadsheet. If a member won't be available on given week, they should exchange their week with another member.
+In order to achieve a fast response time to received reports, we implement a week long on-call duty that is rotated between members of the Code of Conduct Committee. Every week we assign one member to be the primary person on duty, and another member to be a secondary supporter. On-call duty ends and finishes every Monday at noon UTC, when a reminder is sent to conduct@djangoproject.com with information who is the next primary and secondary member on-duty following week. The schedule is managed via a [spreadsheet]. If a member won't be available on given week, they should exchange their week with another member.
 
-![Spreadsheet](https://docs.google.com/a/sitarska.com/uc?authuser=0&id=0B_sMcBckSgWqX1p5cm50UmQ1VVk)
+![spreadsheet](https://docs.google.com/a/sitarska.com/uc?authuser=0&id=0B_sMcBckSgWqX1p5cm50UmQ1VVk)
 
 **Primary person on duty** is responsible for providing the initial response to a reporter, ideally within half a day. They're also responsible for either shepherding the received issue, or finding another member of the committee who will commit to shepherding it.
 
@@ -35,27 +35,25 @@ If all else fails, any member of the committee can step in and pick up an issue 
 
 We aim to provide the initial response and acknowledgement of the received report ideally within couple of hours, or half a day.
 
-If the response requires decision, we should send an acknowledgement of the report to make sure the report is informed we're working on it, and not ignoring it:
+If the response requires a decision, we should send an acknowledgement of the report to make sure the report is informed we're working on it, and not ignoring it:
 
 > Hi X,
 
-> Thanks for getting in touch and reporting the issue to the Code of Conduct, we do appreciate it. We will discuss and get back to you.
+> Thank you so much for reporting this issue to the Django Code of Conduct Committee. I appreciate you taking the time to get in touch - reports like this help us to make Django a  better community.
 
-> In the meantime, if there is anything we can do *immediately* to help you, please let us know.
+> We'll discuss and get back to you with the outcome, and will keep this report on file. Meanwhile, if there is anything else we can do to help or support you, please do let us know.
 
 > Regards,  
 > First Last name  
-> DSF Code of Conduct
+> DSF Code of Conduct Committee
 
-If received report clearly states that the action has been taken already, and the issue is only reported to be kept on file in our central log, the committee can close the issue by sending a simple acknowledgement:
+If the received report clearly states that the action has been taken already, and the issue is only reported to be kept on file in our central log, the committee can close the issue by sending a simple acknowledgement:
 
 > Hi X,
 
-> Thanks for getting in touch and reporting the issue to the Code of Conduct, we do appreciate it. We agree with the steps you took so far, and would like to thank you for handling the issue with care.
+> Thank you so much for reporting this issue to the Django Code of Conduct Committee. I appreciate you taking the time to get in touch - reports like this help us to make Django a  better community. The action you've taken so far seems appropriate, and I'd like to thank you for handling the issue with care.
 
-> We're going to keep this report on file to look for patterns in the future.
-
-> If there is anything else we can do to help or support you, please do let us know.
+> We're going to keep this report on file to look for patterns in the future across the community. If there is anything else we can do to help or support you, please do let us know.
 
 > Thank you again!
 
@@ -67,16 +65,16 @@ If received report clearly states that the action has been taken already, and th
 
 We aim to resolve any report received within a week.
 
-#### shepherding
+#### Shepherding
 
 In order to resolve reports timely and efficiently, we use "shepherding", a practice of assigning a member of the committee to "own" an issue from the initial report until it is resolved. The shepherd does not have to be the person who is on duty that week. A member can suggest themselves as a shepherd for an issue, but must take into consideration:
 
-- **Biases** - If the shepherd has any bias towards the issue (such as knowing the people involved in the issue), then the shepherd should make these biases known to the rest of the committee immediately. Whether or not the bias may effect the outcome of the issue should be discussed by the committee, and a new shepherd should be picked if this is the case.
+- **Biases** - If the shepherd has any bias towards the issue (such as knowing the people involved in the issue), then the shepherd should make these biases known to the rest of the committee immediately. Whether or not the bias may affect the outcome of the issue should be discussed by the committee, and a new shepherd should be picked if this is the case.
 
-- **Time** - Handling issues is very important, the shepherd should be aware that resolving the issue is a high priority. It is the responsibility of the shepherd to see that each stage of the process is acted upon timely, and any delays be addressed. If the shepherd is busy for reasons outside of the committee, they need to alert the rest of the committee of this. If there is a delay during the process due to some external reason, it is the responsibility of the shepherd to alert the committee of this delay.
+- **Time** - Handling issues is very important, the shepherd should be aware that resolving the issue is a high priority. It is the responsibility of the shepherd to see that each stage of the process is acted upon in a timely manner, and any delays be addressed. If the shepherd is busy for reasons outside of the committee, they need to alert the rest of the committee of this. If there is a delay during the process due to some external reason, it is the responsibility of the shepherd to alert the committee of this delay.
 
 
-#### Decision making process
+#### Decision-making process
 
 The process with which decisions are made differ slightly between issues, due to the fact that each issue is slightly different. However, there is a loosely defined set of stages that are present in each issue.
 
@@ -84,26 +82,23 @@ The process with which decisions are made differ slightly between issues, due to
 - **Contacting the reporter** - The shepherd should contact the report letting them know they are the point of contact between the reporter and the committee, and will be available for the reporter if they have any questions. Based on the initial report, the shepherd may choose to ask for more information about the report at this time.
 - **Initial discussion** - The committee conducts a discussion into the report in order to understand the issue. During this time, the committee should aim to decide the severity of the issue and the appropriate next steps. This could be:
 
-    - Contacting the report for additional information.
+    - Contacting the reporter for additional information.
     - Researching the issue if there is additional evidence online or in written form.
     - Contacting additional persons involved in the report.
     - Contacting any official bodies (such as the Django Software Foundation or Python Software Foundation) if the committee feels they can provide extra information.
-    - Researching legal advice.
+    - Seeking legal advice.
 
     Regardless of the actual steps taken at this stage, the aim is the gather a clear understanding of the issue, what occurred, who is involved, and what is the severity of the issue.
 
-- **Deciding actions** - Based on the evidence, the shepherd should propose to the committee the actions that should be taken to resolve the issue. The shepherd requires at least two members of the committee to agree on these actions. If the issue is very severe or requires legal action, it is advised that a majority of the committee agree to the actions before they're taken. The [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) provides details on the various actions that issues can result in. This is not a solid set of options, as each issue is different, different actions are likely.
+- **Deciding actions** - Based on the evidence, the shepherd should propose to the committee the actions that should be taken to resolve the issue. The shepherd requires at least two members of the committee to agree on these actions. If the issue is very severe or requires legal action, it is advised that a majority of the committee agree to the actions before they're taken. The [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) provides details on the various actions that issues can result in. This is not a complete set of options, as each issue is different, different actions are likely.
 
-- **Conducting actions** - The shepherd performs the actions agreed upon by the committee, the first of which must be contacting the report of the decision made by the committee. The actions can sometimes involve contacting individuals involved in the issue. For these actions, we recommend the shepherd write a draft and share it with the committee before it is sent to the individual in order to make sure the receiver is fully aware of the situation.
+ - **Carrying out actions** - The shepherd performs or delegates the actions agreed upon by the committee, the first of which must be contacting the report of the decision made by the committee. The actions can sometimes involve contacting individuals involved in the issue. For these actions, we recommend the shepherd write a draft and share it with the committee before it is sent to the individual in order to make sure the receiver is fully aware of the situation.
 
-- **Ongoing actions** - As a result of conducting the actions, the issue may not resolve straight away. Based on further developments, the shepherd should continue to share the developments and work with the committee to decide on the actions that need to be taken in response.
+	- **Ongoing actions** - As a result of conducting the actions, the issue may not resolve straight away. Based on further developments, the shepherd should continue to share the developments and work with the committee to decide on the actions that need to be taken in response.
 
-- **Resolving** - As the issue resolves, it is the responsibility of the shepherd to contact the reporter of the final resolution, as well as inform the committee that the issue is considered resolved.
+- **Resolving** - As the issue progresses, it is the responsibility of the shepherd to contact the reporter of the final resolution, as well as inform the committee that the issue is considered resolved.
 
 
-### Closing checklist
-
-> TODO: Issue #8
 
 ----
 
