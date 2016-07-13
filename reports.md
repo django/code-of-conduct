@@ -33,7 +33,7 @@ If all else fails, any member of the committee can step in and pick up an issue 
 
 ### Initial response
 
-We aim to provide the initial response and acknowledgement of the received report ideally within couple of hours, or half a day.
+We aim to provide the initial response and acknowledgement of the received report ideally within couple of hours, or half a day. The conduct@djangoproject.com address should be copied on all communications.
 
 If the response requires a decision, we should send an acknowledgement of the report to make sure the report is informed we're working on it, and not ignoring it:
 
@@ -43,13 +43,13 @@ If the response requires a decision, we should send an acknowledgement of the re
 
 > We'll discuss and get back to you with the outcome, and will keep this report on file. Meanwhile, if there is anything else we can do to help or support you, please do let us know.
 
-> Regards,  
-> First Last name  
+> Regards,
+> [First Last name]
 > DSF Code of Conduct Committee
 
 If the received report clearly states that the action has been taken already, and the issue is only reported to be kept on file in our central log, the committee can close the issue by sending a simple acknowledgement:
 
-> Hi X,
+> Hi [X],
 
 > Thank you so much for reporting this issue to the Django Code of Conduct Committee. I appreciate you taking the time to get in touch - reports like this help us to make Django a  better community. The action you've taken so far seems appropriate, and I'd like to thank you for handling the issue with care.
 
@@ -57,15 +57,17 @@ If the received report clearly states that the action has been taken already, an
 
 > Thank you again!
 
-> Regards,  
-> First Last name  
-> DSF Code of Conduct
+> Regards,
+> [First Last name]
+> DSF Code of Conduct Committee
+
+The first responder should also add a [record of the report](records.md) in our files.
 
 ### Resolving the report
 
 We aim to resolve any report received within a week.
 
-#### Shepherding
+#### Assign a shepherd
 
 In order to resolve reports timely and efficiently, we use "shepherding", a practice of assigning a member of the committee to "own" an issue from the initial report until it is resolved. The shepherd does not have to be the person who is on duty that week. A member can suggest themselves as a shepherd for an issue, but must take into consideration:
 
@@ -73,6 +75,17 @@ In order to resolve reports timely and efficiently, we use "shepherding", a prac
 
 - **Time** - Handling issues is very important, the shepherd should be aware that resolving the issue is a high priority. It is the responsibility of the shepherd to see that each stage of the process is acted upon in a timely manner, and any delays be addressed. If the shepherd is busy for reasons outside of the committee, they need to alert the rest of the committee of this. If there is a delay during the process due to some external reason, it is the responsibility of the shepherd to alert the committee of this delay.
 
+When a shepherd is assigned, if it is different to the initial responder, the initial responder should send an update:
+
+> Dear [X],
+
+> I'm writing regarding your recent report to the Django Code of Conduct Committee. I wanted to let you know that we have assigned the case to [Y], who will be your main point of contact going forward. [Y]'s email address is [Y@djangoproject.com]. If you have any questions or concerns with this, please let me know.
+
+> Regards,
+> [First Last name]
+> DSF Code of Conduct Committee
+
+Assuming no questions or concerns, this is marks the completion of the initial responder's responsibilities for this case. If the reporter does have concerns or questions, the first responder should ask the committee to resolve these.
 
 #### Decision-making process
 
@@ -92,13 +105,23 @@ The process with which decisions are made differ slightly between issues, due to
 
 - **Deciding actions** - Based on the evidence, the shepherd should propose to the committee the actions that should be taken to resolve the issue. The shepherd requires at least two members of the committee to agree on these actions. If the issue is very severe or requires legal action, it is advised that a majority of the committee agree to the actions before they're taken. The [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) provides details on the various actions that issues can result in. This is not a complete set of options, as each issue is different, different actions are likely.
 
- - **Carrying out actions** - The shepherd performs or delegates the actions agreed upon by the committee, the first of which must be contacting the report of the decision made by the committee. The actions can sometimes involve contacting individuals involved in the issue. For these actions, we recommend the shepherd write a draft and share it with the committee before it is sent to the individual in order to make sure the receiver is fully aware of the situation.
+### After decisions are made
+
+Once the committee has made its decision, the following takes place:
+
+ - **Carrying out actions** - The shepherd performs or delegates the actions agreed upon by the committee, the first of which should be to inform the reporter of the decision made by the committee. The actions can sometimes involve contacting individuals involved in the issue. For these actions, we recommend the shepherd write a draft and share it with the committee before it is sent to the individual in order to check that necessary information is conveyed clearly and objectively.
 
 	- **Ongoing actions** - As a result of conducting the actions, the issue may not resolve straight away. Based on further developments, the shepherd should continue to share the developments and work with the committee to decide on the actions that need to be taken in response.
 
-- **Resolving** - As the issue progresses, it is the responsibility of the shepherd to contact the reporter of the final resolution, as well as inform the committee that the issue is considered resolved.
+- **Resolving** - Once the actions are implemented and the issue feels resolved, it is the responsibility of the shepherd to:
+   * contact the reporter about the final resolution, and that the committee considers the case closed until new information comes to light.
+   * inform the committee that the issue is considered resolved
+   * update the reports file with a summary of:
+	 * actions taken
+	 * outcome
+	 * review date
 
-
+  The reports file is kept for reference, is reviewed from time to time, and is consulted regularly to compile statistics.
 
 ----
 
