@@ -14,6 +14,11 @@ There is still a lot we're figuring out and learning as we go, so we don't consi
 - [Transparency](transparency.md)
 - [Statistics](statistics.md)
 
+## Other
+
+- [Contributing to this documentation](CONTRIBUTING.md)
+- [Change log](CHANGELOG.md)
+
 ## Related material
 
 Here is how the Code of Conduct is presented on djangoproject.com:

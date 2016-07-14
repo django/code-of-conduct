@@ -121,7 +121,7 @@ Once the committee has made its decision, the following takes place:
 	 * outcome
 	 * review date
 
-  The reports file is kept for reference, is reviewed from time to time, and is consulted regularly to compile statistics.
+  The reports file is kept for reference, is reviewed from time to time, and is consulted regularly to compile statistics. [Read more about record keeping](records.md).
 
 ----
 
