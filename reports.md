@@ -33,7 +33,7 @@ If all else fails, any member of the committee can step in and pick up an issue 
 
 ### Initial response
 
-We aim to provide the initial response and acknowledgement of the received report ideally within couple of hours, or half a day. The conduct@djangoproject.com address should be copied on all communications.
+We aim to provide the initial response and acknowledgement of the received report ideally within couple of hours, or half a day. See the [communications guidelines](communications.md) for useful ways to communicate with reporters and subjects of reports.
 
 If the response requires a decision, we should send an acknowledgement of the report to make sure the report is informed we're working on it, and not ignoring it:
 
@@ -125,4 +125,4 @@ Once the committee has made its decision, the following takes place:
 
 ----
 
-[Go to next chapter: Record-keeping](records.md) :point_right:
+[Go to next chapter: Communications Guidelines](communications.md) :point_right:
