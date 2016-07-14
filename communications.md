@@ -47,6 +47,6 @@ When deciding to share information about a problematic individual, there's poten
 
 * We need to make sure we follow our process to the letter. Any claims made about "reckless behavior leading to loss of reputation" will hinge on whether we actually followed our own processes.
 
-> TODO: We need to beef up our CoC guidelines to make it clear that *retaliatory* actions will be penalised at 10x the impact of the original infractions. For example, if we censured someone privately, and then we found out that they had worked out the source of the complaint and was spreading rumours, we could come out publicly and hard. At that point, the public announcement is that the person has shown utter contempt for the CoC process, and as such, the DSF doesn't believe they can be trusted at events. The fact that there was an original CoC complaint is almost secondary at that point - the person is being publicly censured for undermining the CoC process.
+----
 
 [Go to next chapter: Record-keeping](records.md) :point_right:
