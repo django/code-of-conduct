@@ -2,32 +2,29 @@
 
 # Django Code of Conduct
 
-## Support for conference organizers
+## Support for event organizers
+- Information on how can we help events be more safe.
 
-> Work in progress
+The Django Code of Conduct is dedicated to providing a safe, harassment free environment for all Django events.
 
-- Information on how can we help conferences be more safe
+As an event organizer, it's best that you set up a Code of Conduct committee that will handle any Code of Conduct violations at the event.
+It's very important that your attendees feel and are protected at your event.
 
-The Django Code of Conduct is dedicated to providing a safe, harassment free environment for all Django conferences and meet ups.
+Establishing and enforcing Code of Conduct at events is not easy. Here is how Django Code of Conduct committee can help event organizers to ensure safe environments at events.
 
-As a conference organizer, it's best that you set up a code of conduct committee that will handle any Code of Conduct violations at the conference.
-It's very important that your attendees feel protected at your conference.
+### Before the event
 
-The Django code of Conduct offers help to conference organizers to ensure safe environments at conferences.
+* We advise that you share the list of attendees with us such that we are able to check it against our list of Code of Conduct offenders. If any of the attendees appears on our list as flagged or blacklisted, we will inform you about this.
 
-### Before the conference
+* If you have any trouble with setting up a Code of Conduct policy for your conference, reach out to us and we will be able to help you through the process of creating one.
 
-* We advise that you share the list of attendees with us such that we are able to check it against our list of Code of Conduct offenders. If any of the attendees appears on our list, we will let you know, and advise you on the next steps you could take.
+### During the event
 
-* If you have any trouble with setting up a Code Of Conduct policy for your conference, reach out to us and we will be able to help you through the process of creating one
+* If you encounter a Code of Conduct violation at your event that needs to be addressed immediately, you can reach out to us and we will be able to help you through the processing of resolving it.
 
-### During the conference
+### After the event
 
-* If you encounter a code of conduct violation at your conference, that needs to be addressed immediately, you can reach out to us and we will be able to help you through the processing of resolving it.
-
-### After the conference
-
-* After the conference, you can reach out to us to report any Code Of Conduct violations. If you'd like us to take action on any of them, we will be able to help out. However, if no action is needed, we will add them to our records as well for future reference.
+* After the event, you can reach out to us to report any Code of Conduct violations. If you'd like us to take action on any of them, we will be able to help out. However, if no action is needed, we will add them to our records as well for future reference. Reporting any (even resolved) Code of Conduct violations to us helps us create one, central record of incidents to help all events be more safe.
 ----
 
 [Go to next chapter: Code of Conduct transparency](transparency.md) :point_right:
