@@ -1,6 +1,6 @@
 :point_left: [Come back to index](README.md)
 
-#  # Django Code of Conduct
+# Django Code of Conduct
 
 ## Report handling procedure
 
