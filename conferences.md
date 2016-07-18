@@ -3,6 +3,7 @@
 # Django Code of Conduct
 
 ## Support for event organizers
+
 - Information on how can we help events be more safe.
 
 The Django Code of Conduct is dedicated to providing a safe, harassment free environment for all Django events.
@@ -16,7 +17,7 @@ Establishing and enforcing Code of Conduct at events is not easy. Here is how Dj
 
 * We advise that you share the list of attendees with us such that we are able to check it against our list of Code of Conduct offenders. If any of the attendees appears on our list as flagged or blacklisted, we will inform you about this.
 
-* If you have any trouble with setting up a Code of Conduct policy for your conference, reach out to us and we will be able to help you through the process of creating one.
+* If you have any trouble with setting up a Code of Conduct policy for your event, reach out to us and we will be able to help you through the process of creating one.
 
 ### During the event
 
