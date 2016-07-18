@@ -33,7 +33,7 @@ Starting on 25th May, 2016, committee decided to introduce fixed-term membership
 | Baptiste              | May 5th 2016      | 6 months       | November 25th 2016 |
 | Jeff Triplett         | May 5th 2016      | 6 months       | November 25th 2016 |
 
-After the membership term finishes, the invitation to stay in the committee is automatically extended, but member has to confirm they're indeed still interested and have time to serve on the committee (opt-in).
+After the membership term ends, the invitation to stay in the committee is automatically extended, but member has to confirm they're indeed still interested and have time to serve on the committee (opt-in).
 
 ----
 

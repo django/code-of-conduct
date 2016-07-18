@@ -8,10 +8,16 @@ There is still a lot we're figuring out and learning as we go, so we don't consi
 
 - [Structure of membership in the committee](membership.md)
 - [Report handling procedure](reports.md)
+- [Communications guidelines](communications.md)
 - [Record-keeping](records.md)
 - [Support for conference organizers](conferences.md)
 - [Transparency](transparency.md)
 - [Statistics](statistics.md)
+
+## Other
+
+- [Contributing to this documentation](CONTRIBUTING.md)
+- [Change log](CHANGELOG.md)
 
 ## Related material
 

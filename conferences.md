@@ -4,9 +4,7 @@
 
 ## Support for event organizers
 
-- Information on how can we help events be more safe.
-
-The Django Code of Conduct is dedicated to providing a safe, harassment free environment for all Django events.
+The Django Code of Conduct is committed to providing a safe, harassment free environment for all Django events.
 
 As an event organizer, it's best that you set up a Code of Conduct committee that will handle any Code of Conduct violations at the event.
 It's very important that your attendees feel and are protected at your event.

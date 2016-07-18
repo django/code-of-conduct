@@ -7,6 +7,8 @@
 In the spirit of transparency, we're sharing numbers of Code of Conduct violations that were reported to the Code of Conduct
 committee in the recent years.
 
+These statistics are compiled every 6 months by the Code of Conduct Committee.
+
 | Year | Reports | People named | Actions taken by us | Actions taken by local reps | People blacklisted or flagged | Lack of actions taken |
 |:-----|:--------|:-------------|:--------------------|:----------------------------|:------------------------------|:----------------------|
 | 2015 | 11      | 14           | 1                   | 6                           | 1                             | 4                     |
