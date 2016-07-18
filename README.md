@@ -1,8 +1,14 @@
 # Django Code of Conduct
 
-On 31st July 2013, [Django community adopted a Code of Conduct](https://www.djangoproject.com/weblog/2013/jul/31/django-adopts-code-of-conduct/). This documentation aims to transparently describe how Django Code of Conduct committee enforces the Code of Conduct and how it all works behind the scenes. 
+On 31st July 2013, [Django community adopted a Code of
+Conduct](https://www.djangoproject.com/weblog/2013/jul/31/django-adopts-code-of-conduct/).
+This documentation aims to transparently describe how Django Code of Conduct
+committee enforces the Code of Conduct and how it all works behind the scenes. 
 
-There is still a lot we're figuring out and learning as we go, so we don't consider this documentation to be finished or complete. However, we hope it's going to be useful base for other communities to not only adopt, but also implement and enforce the Code of Conduct. 
+There is still a lot we're figuring out and learning as we go, so we don't
+consider this documentation to be finished or complete. However, we hope it's
+going to be useful base for other communities to not only adopt, but also
+implement and enforce the Code of Conduct.  
 
 ## Table of Contents
 
@@ -33,7 +39,7 @@ Here is how the Code of Conduct is presented on djangoproject.com:
 
 ## License
 
-All content in this repository is licensed under a [Creative Commons Attribution](http://creativecommons.org/licenses/by/3.0/) license.
-
+All content in this repository is licensed under a [Creative Commons
+Attribution](http://creativecommons.org/licenses/by/3.0/) license. 
 
 

@@ -11,8 +11,8 @@ the people who trust us in maintaining the confidentiality of reported issues.
 There are several ways in which we are transparent right now:
 
 - **Publishing documentation**  
-  We believe that publishing documentation about the way we work in the form of this document
-  keeps us accountable and allows the Django community to have a 
+  We believe that publishing documentation about the way we work in the form of
+  this document keeps us accountable and allows the Django community to have a 
   an insight into the processes guiding our decisions, as well as suggest changes
   and improvements.
   
