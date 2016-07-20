@@ -21,7 +21,7 @@ There are several ways in which we are transparent right now:
   chapter](statistics.md) of this documentation to shed a light on volume of 
   issues that the committee deals with. 
   
-- **Quaterly transparency report**  
+- **Quarterly transparency report**  
   Every 3 months, a transparency report with anonymized summaries of received 
   reports is added to this documentation. 
 
