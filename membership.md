@@ -17,8 +17,14 @@ number is still too low, a call for volunteers is published on Django blog.
 
 ### Current members of the committee:
 
-- Greg Turner Amber Brown (Hawkowl) Paul Hallett Emily Karungi Ola Sitarska
-- Baptiste Mispelon Jeff Triplett Frank Wiles (DSF board observer)
+- Greg Turner
+- Amber Brown (Hawkowl)
+- Paul Hallett
+- Emily Karungi
+- Ola Sitarska
+- Baptiste Mispelon
+- Jeff Triplett
+- Frank Wiles (DSF board observer)
 
 ### Terms of membership:
 
@@ -45,4 +51,4 @@ interested and have time to serve on the committee (opt-in).
 
 ----
 
-[Go to next chapter: Report handling procedure](reports.md) :point_right: 
+[Go to next chapter: Report handling procedure](reports.md) :point_right:
