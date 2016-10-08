@@ -211,6 +211,11 @@ it is the responsibility of the shepherd to:
 consulted regularly to compile statistics. [Read more about record
 keeping](records.md).
 
+   If the issue was already resolved by local representatives handling Code 
+of Conduct issue, our committee doesn't carry the responsibility of informing
+the subject of the report that the record will be kept by us unless there is a
+clear reason why we would like to follow up to find out their side of the story.
+
 ----
 
 [Go to next chapter: Communications Guidelines](communications.md) :point_right:
