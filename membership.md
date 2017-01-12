@@ -17,14 +17,17 @@ number is still too low, a call for volunteers is published on Django blog.
 
 ### Current members of the committee:
 
-- Greg Turner
 - Amber Brown (Hawkowl)
+- Jeff Triplett
+- Frank Wiles (DSF board observer)
+
+### Past members of the committee:
+
+- Greg Turner
 - Paul Hallett
 - Emily Karungi
 - Ola Sitarska
 - Baptiste Mispelon
-- Jeff Triplett
-- Frank Wiles (DSF board observer)
 
 ### Terms of membership:
 
@@ -35,15 +38,10 @@ idea behind it allows members of the committee to step down from serving
 without feeling guilty, and assumes an opt-in membership instead of opt-out, as
 it was thus far.
 
-| Member                | Join date         | Length of term | Next opt-in date   | 
-| --------------------- | ----------------- | -------------- | ------------------ | 
-| Greg Turner           | January 5th 2015  | 6 months       | November 25th 2016 |
-| Amber Brown (HawkOwl) | January 5th 2015  | 6 months       | November 25th 2016 |
-| Paul Hallett          | January 5th 2015  | 6 months       | November 25th 2016 |
-| Emily Karungi         | February 4th 2015 | 6 months       | November 25th 2016 |
-| Ola Sitarska          | May 5th 2016      | 6 months       | November 25th 2016 |
-| Baptiste Mispelon     | May 5th 2016      | 6 months       | November 25th 2016 |
-| Jeff Triplett         | May 5th 2016      | 6 months       | November 25th 2016 |
+| Member                | Join date         | Length of term | Next opt-in date   |
+| --------------------- | ----------------- | -------------- | ------------------ |
+| Amber Brown (HawkOwl) | January 5th 2015  | 6 months       | May 25th 2017      |
+| Jeff Triplett         | May 5th 2016      | 6 months       | May 25th 2017      |
 
 After the membership term ends, the invitation to stay in the committee is
 automatically extended, but member has to confirm they're indeed still
