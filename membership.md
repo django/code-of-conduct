@@ -19,6 +19,7 @@ number is still too low, a call for volunteers is published on Django blog.
 
 - Amber Brown (Hawkowl)
 - Jeff Triplett
+- Brian Moloney
 - Frank Wiles (DSF board observer)
 
 ### Past members of the committee:
