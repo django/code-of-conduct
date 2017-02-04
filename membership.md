@@ -20,6 +20,7 @@ number is still too low, a call for volunteers is published on Django blog.
 - Amber Brown (Hawkowl)
 - Jeff Triplett
 - Brian Moloney
+- Lacey Williams Henschel
 - Frank Wiles (DSF board observer)
 
 ### Past members of the committee:
@@ -39,10 +40,11 @@ idea behind it allows members of the committee to step down from serving
 without feeling guilty, and assumes an opt-in membership instead of opt-out, as
 it was thus far.
 
-| Member                | Join date         | Length of term | Next opt-in date   |
-| --------------------- | ----------------- | -------------- | ------------------ |
-| Amber Brown (HawkOwl) | January 5th 2015  | 6 months       | May 25th 2017      |
-| Jeff Triplett         | May 5th 2016      | 6 months       | May 25th 2017      |
+| Member                  | Join date         | Length of term | Next opt-in date   |
+| ----------------------- | ----------------- | -------------- | ------------------ |
+| Amber Brown (HawkOwl)   | January 5th 2015  | 6 months       | May 25th 2017      |
+| Jeff Triplett           | May 5th 2016      | 6 months       | May 25th 2017      |
+| Lacey Williams Henschel | January 19th 2017 | 6 months       | May 25th 2017      |
 
 After the membership term ends, the invitation to stay in the committee is
 automatically extended, but member has to confirm they're indeed still
