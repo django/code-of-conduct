@@ -36,9 +36,8 @@ In order to achieve a fast response time to received reports, we implement a
 week long on-call duty that is rotated between members of the Code of Conduct
 Committee. Every week we assign one member to be the primary person on duty,
 and another member to be a secondary supporter. On-call duty ends and finishes
-every Monday at noon UTC, when a reminder is sent to conduct@djangoproject.com
-with information who is the next primary and secondary member on-duty following
-week. The schedule is managed via a [spreadsheet]. If a member won't be
+every Monday at noon UTC; the outgoing people-on-duty should notify the incoming
+ones on Slack.  The schedule is managed via a [spreadsheet]. If a member won't be
 available on given week, they should exchange their week with another member.
 
 ![spreadsheet](https://docs.google.com/a/sitarska.com/uc?authuser=0&id=0B_sMcBckSgWqX1p5cm50UmQ1VVk)
