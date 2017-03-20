@@ -8,6 +8,10 @@ behind a change.
 
 *Brief description of changes*
 
+### 2017-03-20
+
+- Updates membership to reflect current members.
+
 ### 2017-01-11
 
 - Updated stats for 2016
