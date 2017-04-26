@@ -24,7 +24,6 @@ number is still too low, a call for volunteers is published on Django blog.
 - Olumide Bakare
 - Amber Brown (Hawkowl)
 - Joseph V. Cardenas
-- Antonis Christofides
 - Michael Clark
 - Rebecca Conley
 - Lacey Williams Henschel
@@ -60,7 +59,6 @@ it was thus far.
 | Mike Barkas             | February 1, 2017  | 9 months       | October 31st 2017  |
 | Olumide Bakare          | February 1, 2017  | 9 months       | October 31st 2017  |
 | Joseph V. Cardenas      | February 1, 2017  | 9 months       | October 31st 2017  |
-| Antonis Christofides    | February 1, 2017  | 9 months       | October 31st 2017  |
 | Michael Clark           | February 1, 2017  | 9 months       | October 31st 2017  |
 | Tibbs Hefflin           | February 1, 2017  | 9 months       | October 31st 2017  |
 | Anna Makarudze          | February 1, 2017  | 9 months       | October 31st 2017  |
