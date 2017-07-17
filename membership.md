@@ -26,7 +26,6 @@ number is still too low, a call for volunteers is published on Django blog.
 - Joseph V. Cardenas
 - Michael Clark
 - Rebecca Conley
-- Lacey Williams Henschel
 - Tibbs Hefflin
 - Anna Makarudze
 - Frank Wiles (DSF board observer)
@@ -38,6 +37,7 @@ number is still too low, a call for volunteers is published on Django blog.
 - Emily Karungi
 - Ola Sitarska
 - Baptiste Mispelon
+- Lacey Williams Henschel
 
 ### Terms of membership:
 
@@ -52,7 +52,6 @@ it was thus far.
 | ----------------------- | ----------------- | -------------- | ------------------ |
 | Amber Brown (HawkOwl)   | January 5th 2015  | 6 months       | May 25th 2017      |
 | Jeff Triplett           | May 5th 2016      | 6 months       | May 25th 2017      |
-| Lacey Williams Henschel | January 19th 2017 | 6 months       | May 25th 2017      |
 | Rebecca Conley          | February 1, 2017  | 6 months       | July 31st 2017     |
 | Brian Moloney           | February 1, 2017  | 9 months       | October 31st 2017  |
 | Erik Romijn             | February 1, 2017  | 9 months       | October 31st 2017  |
