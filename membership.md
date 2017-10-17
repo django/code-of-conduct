@@ -25,7 +25,6 @@ number is still too low, a call for volunteers is published on Django blog.
 - Amber Brown (Hawkowl)
 - Joseph V. Cardenas
 - Michael Clark
-- Rebecca Conley
 - Tibbs Hefflin
 - Anna Makarudze
 - Frank Wiles (DSF board observer)
@@ -38,6 +37,7 @@ number is still too low, a call for volunteers is published on Django blog.
 - Ola Sitarska
 - Baptiste Mispelon
 - Lacey Williams Henschel
+- Rebecca Conley
 
 ### Terms of membership:
 
@@ -48,19 +48,18 @@ idea behind it allows members of the committee to step down from serving
 without feeling guilty, and assumes an opt-in membership instead of opt-out, as
 it was thus far.
 
-| Member                  | Join date         | Length of term | Next opt-in date   |
-| ----------------------- | ----------------- | -------------- | ------------------ |
-| Amber Brown (HawkOwl)   | January 5th 2015  | 6 months       | May 25th 2017      |
-| Jeff Triplett           | May 5th 2016      | 6 months       | May 25th 2017      |
-| Rebecca Conley          | February 1, 2017  | 6 months       | July 31st 2017     |
-| Brian Moloney           | February 1, 2017  | 9 months       | October 31st 2017  |
-| Erik Romijn             | February 1, 2017  | 9 months       | October 31st 2017  |
-| Mike Barkas             | February 1, 2017  | 9 months       | October 31st 2017  |
-| Olumide Bakare          | February 1, 2017  | 9 months       | October 31st 2017  |
-| Joseph V. Cardenas      | February 1, 2017  | 9 months       | October 31st 2017  |
-| Michael Clark           | February 1, 2017  | 9 months       | October 31st 2017  |
-| Tibbs Hefflin           | February 1, 2017  | 9 months       | October 31st 2017  |
-| Anna Makarudze          | February 1, 2017  | 9 months       | October 31st 2017  |
+| Member                | Join date        | Length of term | Next opt-in date   |
+| --------------------- | ---------------- | -------------- | ------------------ |
+| Amber Brown (HawkOwl) | January 5th 2015 | 6 months       | May 25th 2017      |
+| Jeff Triplett         | May 5th 2016     | 6 months       | December 5th, 2017 |
+| Brian Moloney         | February 1, 2017 | 9 months       | October 31st 2017  |
+| Sasha Romijn          | February 1, 2017 | 9 months       | October 31st 2017  |
+| Mike Barkas           | February 1, 2017 | 9 months       | October 31st 2017  |
+| Olumide Bakare        | February 1, 2017 | 9 months       | October 31st 2017  |
+| Joseph V. Cardenas    | February 1, 2017 | 9 months       | October 31st 2017  |
+| Michael Clark         | February 1, 2017 | 9 months       | October 31st 2017  |
+| Tibbs Hefflin         | February 1, 2017 | 9 months       | October 31st 2017  |
+| Anna Makarudze        | February 1, 2017 | 9 months       | October 31st 2017  |
 
 After the membership term ends, the invitation to stay in the committee is
 automatically extended, but member has to confirm they're indeed still
