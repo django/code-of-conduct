@@ -15,7 +15,7 @@ These statistics are compiled every 6 months by the Code of Conduct Committee.
 |:-----|:--------|:-------------|:--------------------|:----------------------------|:------------------------------|:----------------------|
 | 2015 | 11      | 14           | 1                   | 6                           | 1                             | 4                     |
 | 2016 | 13      | 10           | 2                   | 11                          | 1                             | 1                     |
-
+| 2017 | 13      | 6            | 3                   | 7                           | 1                             | 1                     |
 
 
 Statistics were last updated on 11th January 2017.
