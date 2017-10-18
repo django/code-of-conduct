@@ -19,7 +19,7 @@ number is still too low, a call for volunteers is published on Django blog.
 
 - Brian Moloney, Co-Chair
 - Jeff Triplett, Co-Chair
-- Erik Romijn, Vice Chair
+- Sasha Romijn, Vice Chair
 - Mike Barkas
 - Olumide Bakare
 - Amber Brown (Hawkowl)
