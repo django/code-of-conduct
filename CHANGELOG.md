@@ -1,12 +1,15 @@
 This document should be updated whenever a change is made after this
 documentation will be made public. This is to transparently show how and what
 changes to the documentation are made without forcing people through the
-experience of looking at commit log. This may also include summary of rationale
-behind a change. 
+experience of looking at commit log. This may also include summary of rationale behind a change. 
 
 ### XXXX-XX-XX
 
 *Brief description of changes*
+
+### 2018-06-08
+ 
+- Updated term used to describe banned members.
 
 ### 2017-10-17
 

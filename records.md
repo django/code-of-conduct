@@ -20,10 +20,10 @@ the following fields:
  * __Summary of outcome to share if suitable.__ This is written for sharing 
  with community organizers, assuming it may be read by the subject of the 
  report, and so should be objective and privacy-respecting.
- * __Blacklisted or flagged.__ "flagged" means we will share the summary 
- outcome of the report with event organisers; "blacklisted" means that the 
+ * __Banned or flagged.__ "flagged" means we will share the summary 
+ outcome of the report with event organizers; "banned" means that the 
  information will include that we have asked the person not to attend events 
- covered by the CoC. Blacklisted is a subclass of flagged.
+ covered by the CoC. Banned is a subclass of flagged.
  * __Date to expunge this record.__ When this date is exceeded, we replace 
  identifying information in the record with "Expunged", with the idea that 
  the report isn't to affect our dealings with this person after this date. 
