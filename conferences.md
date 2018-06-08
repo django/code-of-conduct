@@ -19,13 +19,13 @@ environments at events.
 
 * We advise that you share the list of attendees with us such that we are able to
 check it against our list of Code of Conduct offenders. If any of the attendees
-appears on our list as flagged or blacklisted, we will inform you about this.
+appears on our list as flagged or banned, we will inform you about this.
 
 * Similarly, before you announce your accepted speakers, you can send us the
 speaker list to see if any appear on our lists.
 
 * Note that we can only tell you whether or not someone appears in our records
-as flagged or blacklisted. We don't guarantee that people have never violated
+as flagged or banned. We don't guarantee that people have never violated
 a Code of Conduct, as we won't inform you of minor incidents, and records of
 minor incidents are expunged after some time. We also don't do any research
 beyond our own lists.
