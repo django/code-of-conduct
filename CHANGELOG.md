@@ -9,6 +9,7 @@ experience of looking at commit log. This may also include summary of rationale 
 
 ### 2018-06-09
  
+- Updates Jeff's status
 - Updated stats for 2018
 
 ### 2018-06-08
