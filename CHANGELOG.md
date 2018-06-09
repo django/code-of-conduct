@@ -7,6 +7,10 @@ experience of looking at commit log. This may also include summary of rationale 
 
 *Brief description of changes*
 
+### 2018-06-09
+ 
+- Updated stats for 2018
+
 ### 2018-06-08
  
 - Updated term used to describe banned members.
