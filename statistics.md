@@ -15,9 +15,10 @@ These statistics are compiled every 6 months by the Code of Conduct Committee.
 | 2015 | 11      | 14           | 1                   | 6                           | 1                             | 4                     |
 | 2016 | 13      | 10           | 2                   | 11                          | 1                             | 1                     |
 | 2017 | 13      | 6            | 3                   | 7                           | 1                             | 1                     |
+| 2018 | 6       | 5            | 0                   | 6                           | 0                             | 0                     |
 
 
-Statistics were last updated on October 18th, 2017.
+Statistics were last updated on June 9th, 2018.
 
 - __Report__ - total number of issues reported to the Code of Conduct committee
 - __People named__ - total number of people named in the received reports
