@@ -42,10 +42,23 @@ through the processing of resolving it.
 
 ### After the event
 
-* After the event, you can reach out to us to report any Code of Conduct
-violations. If you'd like us to take action on any of them, we will be able to
-help out. However, if no action is needed, we will add them to our records as
-well for future reference. Reporting any (even resolved) Code of Conduct
+Conferences in the Django community are strongly encouraged to keep reports 
+on all Code of Conduct incidents they handle, and send these reports to the
+committee after the end of the conference. Reports should include names 
+of people involved and, ideally, a description of the facts determined by 
+the conference team, the review of the incident, actions taken, and responses 
+to actions taken. We also appreciate any screenshots of original slack or 
+twitter messages, or recordings of talks, that show the violation, and 
+copies of message exchanges between the team and any reporters or bad actors.
+
+Upon receiving reports from a conference, the committee will:
+* Confirm receipt of the reports to the conference.
+* Review all reports.
+* Assess whether any additional action from the committee is needed.
+* Record all reports in the committee’s records.
+
+
+Reporting any (even resolved) Code of Conduct
 violations to us helps us create one, central record of incidents to help all
 events be more safe.
 
