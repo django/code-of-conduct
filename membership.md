@@ -17,15 +17,13 @@ number is still too low, a call for volunteers is published on Django blog.
 
 ### Current members of the committee:
 
-- Brian Moloney, Co-Chair
-- Jeff Triplett, Co-Chair (Outgoing)
-- Sasha Romijn, Vice Chair
-- Mike Barkas
+- Brian Moloney, Co-Chair <django-coc@imagescape.com>
+- Sasha Romijn, Vice Chair <django-coc@mxsasha.eu>
+- Jeff Triplett
 - Olumide Bakare
 - Joseph V. Cardenas
 - Michael Clark
 - Tibbs Hefflin
-- Anna Makarudze
 - Frank Wiles (DSF board observer)
 
 ### Past members of the committee:
