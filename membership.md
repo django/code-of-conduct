@@ -48,13 +48,13 @@ it was thus far.
 
 | Member             | Join date        | Length of term | Next opt-in date |
 | ------------------ | ---------------- | -------------- | ---------------- |
-| Jeff Triplett      | May 5th 2016     | 9 months       | April 30th 2009  |
-| Brian Moloney      | February 1, 2017 | 9 months       | April 30th 2009  |
-| Sasha Romijn       | February 1, 2017 | 9 months       | April 30th 2009  |
-| Olumide Bakare     | February 1, 2017 | 9 months       | April 30th 2009  |
-| Joseph V. Cardenas | February 1, 2017 | 9 months       | April 30th 2009  |
-| Michael Clark      | February 1, 2017 | 9 months       | April 30th 2009  |
-| Tibbs Hefflin      | February 1, 2017 | 9 months       | April 30th 2009  |
+| Jeff Triplett      | May 5th 2016     | 9 months       | April 30th 2019  |
+| Brian Moloney      | February 1, 2017 | 9 months       | April 30th 2019  |
+| Sasha Romijn       | February 1, 2017 | 9 months       | April 30th 2019  |
+| Olumide Bakare     | February 1, 2017 | 9 months       | April 30th 2019  |
+| Joseph V. Cardenas | February 1, 2017 | 9 months       | April 30th 2019  |
+| Michael Clark      | February 1, 2017 | 9 months       | April 30th 2019  |
+| Tibbs Hefflin      | February 1, 2017 | 9 months       | April 30th 2019  |
 
 After the membership term ends, the invitation to stay in the committee is
 automatically extended, but member has to confirm they're indeed still
