@@ -18,7 +18,6 @@ number is still too low, a call for volunteers is published on Django blog.
 ### Current members of the committee:
 
 - Brian Moloney, Co-Chair <django-coc@imagescape.com>
-- Sasha Romijn, Vice Chair <django-coc@mxsasha.eu>
 - Jeff Triplett
 - Olumide Bakare
 - Joseph V. Cardenas
@@ -28,6 +27,7 @@ number is still too low, a call for volunteers is published on Django blog.
 
 ### Past members of the committee:
 
+- Sasha Romijn
 - Greg Turner
 - Paul Hallett
 - Emily Karungi
@@ -50,7 +50,6 @@ it was thus far.
 | ------------------ | ---------------- | -------------- | ---------------- |
 | Jeff Triplett      | May 5th 2016     | 9 months       | April 30th 2019  |
 | Brian Moloney      | February 1, 2017 | 9 months       | April 30th 2019  |
-| Sasha Romijn       | February 1, 2017 | 9 months       | April 30th 2019  |
 | Olumide Bakare     | February 1, 2017 | 9 months       | April 30th 2019  |
 | Joseph V. Cardenas | February 1, 2017 | 9 months       | April 30th 2019  |
 | Michael Clark      | February 1, 2017 | 9 months       | April 30th 2019  |
