@@ -21,7 +21,7 @@ These statistics are compiled every 6 months by the Code of Conduct Committee.
 | 2021 | 6       | 1            | 3                   | 2                           | 0                             | 2                     |
 | 2022 | 2       | 1            | 1                   | 1                           | 0                             | 0                     |
 
-Statistics were last updated on MArch 24, 2023.
+Statistics were last updated on March 24, 2023.
 
 - __Report__ - total number of issues reported to the Code of Conduct committee
 - __People named__ - total number of people named in the received reports
