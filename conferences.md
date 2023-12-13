@@ -62,6 +62,14 @@ Reporting any (even resolved) Code of Conduct
 violations to us helps us create one, central record of incidents to help all
 events be more safe.
 
+We also encourage organizers to publish their own transparency reports after
+the event, to help future organizers learn from their experiences.
+
+As an example, here are transparency reports from past DjangoCon events:
+
+- [Code of Conduct Transparency Report for DjangoCon US 2023](https://2023.djangocon.us/news/code-of-conduct-transparency-report/)
+- [DjangoCon Europe 2023: Code of Conduct transparency report](https://2023.djangocon.eu/news/code-of-conduct-transparency-report/)
+
 ----
 
 [Go to next chapter: Code of Conduct transparency](transparency.md) :point_right:
