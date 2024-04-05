@@ -27,6 +27,7 @@ number is still too low, a call for volunteers is published on Django blog.
 
 ### Past members of the committee:
 
+- Brian Moloney
 - Michael Clark
 - Joseph V. Cardenas
 - Olumide Bakare
