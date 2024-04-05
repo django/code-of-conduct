@@ -17,16 +17,21 @@ number is still too low, a call for volunteers is published on Django blog.
 
 ### Current members of the committee:
 
-- Brian Moloney, Co-Chair <django-coc@imagescape.com>
+<!-- Keep the membership in sync between the GitHub team, https://github.com/django/code-of-conduct/blob/main/membership.md, https://github.com/django/dsf-working-groups/blob/main/active/code-of-conduct.md, https://www.djangoproject.com/foundation/committees/ -->
+
+- Jay Miller
+- Dan Ryan
 - Jeff Triplett
-- Olumide Bakare
-- Joseph V. Cardenas
-- Michael Clark
-- Tibbs Hefflin
-- Frank Wiles (DSF board observer)
+- Thibaud Colas
+- Chaim Kirby, DSF Board President and board liaison
 
 ### Past members of the committee:
 
+- Michael Clark
+- Joseph V. Cardenas
+- Olumide Bakare
+- Tibbs Hefflin
+- Frank Wiles
 - Sasha Romijn
 - Greg Turner
 - Paul Hallett
