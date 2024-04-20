@@ -23,6 +23,7 @@ number is still too low, a call for volunteers is published on Django blog.
 - Dan Ryan
 - Jeff Triplett
 - Thibaud Colas
+- Elena Williams
 - Chaim Kirby, DSF Board President and board liaison
 
 ### Past members of the committee:
