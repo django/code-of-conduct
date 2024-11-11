@@ -19,11 +19,11 @@ number is still too low, a call for volunteers is published on Django blog.
 
 <!-- Keep the membership in sync between the GitHub team, https://github.com/django/code-of-conduct/blob/main/membership.md, https://github.com/django/dsf-working-groups/blob/main/active/code-of-conduct.md, https://www.djangoproject.com/foundation/committees/ -->
 
+- Dan Ryan, Chair
 - Jay Miller
-- Dan Ryan
+- Elena Williams, Vice-Chair
 - Jeff Triplett
 - Thibaud Colas
-- Elena Williams
 - Chaim Kirby, DSF Board President and board liaison
 
 ### Past members of the committee:
