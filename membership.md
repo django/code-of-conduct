@@ -23,8 +23,7 @@ number is still too low, a call for volunteers is published on Django blog.
 - Elena Williams, Vice-Chair
 - Jay Miller
 - Jeff Triplett
-- Thibaud Colas
-- Chaim Kirby, DSF Board President and board liaison
+- Thibaud Colas, DSF Board President and board liaison
 
 ### Past members of the committee:
 
