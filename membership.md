@@ -42,6 +42,7 @@ number is still too low, a call for volunteers is published on Django blog.
 - Lacey Williams Henschel
 - Rebecca Conley
 - Amber Brown (Hawkowl)
+- Chaim Kirby
 
 ### Terms of membership:
 
