@@ -21,12 +21,12 @@ number is still too low, a call for volunteers is published on Django blog.
 
 - Dan Ryan, Chair
 - Elena Williams, Vice-Chair
-- Jay Miller
 - Jeff Triplett
 - Thibaud Colas, DSF Board President and board liaison
 
 ### Past members of the committee:
 
+- Jay Miller
 - Brian Moloney
 - Michael Clark
 - Joseph V. Cardenas
