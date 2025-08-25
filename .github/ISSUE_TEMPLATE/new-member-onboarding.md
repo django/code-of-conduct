@@ -12,6 +12,7 @@ assignees: dryan
 - [ ] Add email account to: https://groups.google.com/g/django-coc-committee
 - [ ] Add them to the `#ask-coc` and `#coc-working-group` channels in the DSF Slack
 - [ ] Add them to https://www.djangoproject.com/foundation/committees/#conduct
+- [ ] Add them to https://github.com/django/dsf-working-groups/blob/main/active/code-of-conduct.md
 
 If the person is serving as Chair, Co-chair, or Board Liaison also do the following:
 
