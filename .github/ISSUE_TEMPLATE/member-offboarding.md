@@ -11,3 +11,4 @@ assignees: dryan
 - [ ] Remove them from https://github.com/orgs/django/teams/coc-committee/members
 - [ ] Remove them from https://groups.google.com/g/django-coc-committee
 - [ ] Remove them from any DSF Slack channels for the group
+- [ ] Remove them from https://www.djangoproject.com/foundation/committees/#conduct
