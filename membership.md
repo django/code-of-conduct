@@ -25,6 +25,7 @@ number is still too low, a call for volunteers is published on Django blog.
 - Jeff Triplett
 - Priya Pahwa
 - Thibaud Colas, DSF Board President and board liaison
+- Natalia Bidart, liason for Online Communities working group
 
 ### Past members of the committee:
 
