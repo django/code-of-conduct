@@ -13,3 +13,4 @@ assignees: dryan
 - [ ] Remove them from any DSF Slack channels for the group
 - [ ] Remove them from https://www.djangoproject.com/foundation/committees/#conduct
 - [ ] Remove them from https://github.com/django/dsf-working-groups/blob/main/active/code-of-conduct.md
+- [ ] Remove them from the shared Google Drive
