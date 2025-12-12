@@ -22,9 +22,9 @@ number is still too low, a call for volunteers is published on Django blog.
 - Dan Ryan, Chair
 - Elena Williams, Vice-Chair
 - Ariane Djeupang
-- Jeff Triplett
+- Jeff Triplett, DSF Board President and board liaison
 - Priya Pahwa
-- Thibaud Colas, DSF Board President and board liaison
+- Thibaud Colas
 - Natalia Bidart, liason for Online Communities working group
 
 ### Past members of the committee:
