@@ -43,7 +43,7 @@ Working Group.
 ## Announcing Changes
 
 After a change has been merged, the Working Group will announce the change to the
-Django community. This may be done through the Django blog, mailing lists, social media,
+Django community. This may be done through the Django blog, the Django forum, social media,
 or other channels as appropriate. The announcement will include a summary of the change,
 the rationale behind it, and any relevant links to the updated documentation.
 
