@@ -24,7 +24,7 @@ banning from community spaces like our GitHub organization.
 The Working Group will review proposed changes as they are submitted. Any open issues
 will be discussed during the Working Group's regular meetings. The Working Group may
 also solicit feedback from the broader Django community on proposed changes, either
-through public discussion threads or by other means like our Discord or DSF Slack.
+through [public discussion threads](https://forum.djangoproject.com) or by other means like our [Discord](https://chat.djangoproject.com) or DSF Slack.
 
 Everyone is encouraged to participate in these discussions while adhering to the
 Code of Conduct (keep it positive, constructive, and respectful).
