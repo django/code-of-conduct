@@ -22,7 +22,7 @@ banning from community spaces like our GitHub organization.
 ## Reviewing Changes
 
 The Working Group will review proposed changes as they are submitted. Any open issues
-will be discussed during the Working Group's regular meetings. The Working Group may
+will be discussed during the Working Group's regular monthly meetings. The Working Group may
 also solicit feedback from the broader Django community on proposed changes, either
 through [public discussion threads](https://forum.djangoproject.com) or by other means like our [Discord](https://chat.djangoproject.com) or DSF Slack.
 
