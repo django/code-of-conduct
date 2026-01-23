@@ -1,7 +1,7 @@
 # Django Code of Conduct Update Procedures
 
 This document serves as a template for how to propose substantive changes to Django's
-Code of Conduct and related documentation. The Working Group can bypass this process
+Code of Conduct and related documentation. The Code of Conduct Working Group can bypass this process
 for minor edits such as typos and formatting issues; for updating membership lists; and
 for editing FAQs as necessary.
 
