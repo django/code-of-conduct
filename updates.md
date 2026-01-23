@@ -36,7 +36,7 @@ merged into the Code of Conduct documentation. The Working Group will then updat
 [CHANGELOG.md](CHANGELOG.md) file to reflect the change, including a brief description
 of the change and the date it was made.
 
-Changes to the Code of Conduct itself will be set to the DSF Board for final approval
+Changes to the Code of Conduct itself will be sent to the DSF Board for final approval
 before being merged. Changes to related documentation may be merged directly by the
 Working Group.
 
