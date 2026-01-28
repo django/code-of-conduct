@@ -31,7 +31,7 @@ Code of Conduct (keep it positive, constructive, and respectful).
 
 ## Approving Changes
 
-Once the Code of Conduct Code of Conduct Working Group has reached consensus on a proposed change, the change will be
+Once the Code of Conduct Working Group has reached consensus on a proposed change, the change will be
 merged into the Code of Conduct documentation. The Code of Conduct Working Group will then update the
 [CHANGELOG.md](CHANGELOG.md) file to reflect the change, including a brief description
 of the change and the date it was made.
