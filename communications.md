@@ -17,6 +17,21 @@ keep the following in mind:
   this helps guard against someone accidentally sharing protected information
   without being aware of the recipients.
 
+## Anonymizing Reports
+
+When communicating with administrators, moderators, or the reported party,
+carefully anonymize all identifying information about the reporter and
+witnesses:
+
+- Remove or redact names, usernames, and email addresses
+- Generalize specific timestamps that could identify participants
+- Describe observable behaviors without quoting unique phrasing that could
+  identify sources
+- Use gender-neutral language unless gender is relevant to the incident
+
+When drafting communications, have a second working group member review for
+potentially identifying information before sending.
+
 ## Communicate professionally
 
 - Different people will experience the same situation in different ways.
@@ -43,6 +58,25 @@ keep the following in mind:
 - In many cases, directly requesting that someone not attend Django events or
   refrain from certain behaviors can be effective. When approached with clarity
   about expectations and consequences, many individuals will voluntarily comply.
+
+## Structure of Communication with Reported Parties
+
+When contacting someone about a Code of Conduct violation, the communication
+should include four components:
+
+1. **Description of behavior in neutral language**: State what occurred using
+   factual, observable terms without assumptions about intent
+2. **Impact of that behavior**: Explain the negative effects on individuals
+   and/or the community
+3. **Behavioral modifications expected**: Provide concrete, specific expectations
+   for changed behavior going forward (if applicable)
+4. **Consequences**: Clearly state what consequences are being applied and
+   what may happen if the behavior continues
+
+Do not disclose who reported the incident. If the person wishes to apologize
+to someone harmed, the working group can facilitate this or accept the apology
+on their behalf, but direct contact should be discouraged unless all parties
+consent.
 
 ## Sharing information about reported parties
 
@@ -111,3 +145,7 @@ communications should emphasize accountability, growth, and community healing.
   actions to reporters or the broader community, explain how they address the
   harm and support community safety without unnecessarily disclosing private
   details.
+
+---
+
+Our documents and policies are adapted from and inspired by a number of [sources](sources.md).

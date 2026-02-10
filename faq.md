@@ -43,3 +43,7 @@ However, even if everyone was kind, everyone was compassionate, and everyone was
 ## This is censorship! I have the right to say whatever I want!
 
 You do -- in _your_ space. If you'd like to hang out in _our_ spaces (as clarified above), we have some simple guidelines to follow. If you want to, for example, form a group where Django is discussed using language inappropriate for general channels then nobody's stopping you. We respect your right to establish whatever codes of conduct you want in the spaces that belong to you. Please honor this Code of Conduct in our spaces.
+
+---
+
+Our documents and policies are adapted from and inspired by a number of [sources](sources.md).

@@ -94,6 +94,33 @@ its deliberations through email discussions, notes and takeaways from
 meetings, and by recording decisions from DSF Slack conversations into
 their notes.
 
+### Evaluating Reports
+
+When reviewing an incident, the working group will evaluate three key aspects:
+
+#### Jurisdiction
+
+- Is this behavior explicitly listed in our Code of Conduct as inappropriate?
+- Did this occur within a space covered by our Code of Conduct's scope?
+- If the incident occurred outside Django spaces but may negatively impact a community member's safety or wellbeing, should it be considered in scope?
+
+#### Impact
+
+- Did this incident occur publicly or privately? Public incidents affect more community members.
+- Does this behavior negatively impact people from marginalized groups in our community?
+- How is the harmed party being negatively impacted?
+- Are community members likely to disengage if no action is taken?
+- Does this incident involve a community leader whose behavior sets standards for others?
+
+#### Risk
+
+- Does this incident involve sexual harassment or threats to physical safety?
+- Will this incident severely impact someone's mental health or physical safety?
+- Is there a risk of repeated behavior? Does the reported person understand why their behavior was inappropriate?
+- Is there an established pattern from past reports?
+
+Reports involving higher risk or impact may warrant more serious consequences than those with lower risk or impact.
+
 The working group should aim to have a resolution agreed upon within a
 reasonable timeframe. If a resolution requires more time, the working group
 will respond to the reporter(s) with an update and projected timeline for
@@ -212,9 +239,11 @@ they must report their actions to the working group for review within 24 hours.
 
 ## Resolutions
 
-The working group must agree on a resolution by consensus. If the
-working group cannot reach consensus within a reasonable timeframe, the
-working group will turn the matter over to the board for resolution.
+The working group must agree on a resolution by consensus. Where consensus
+cannot be reached, decisions may be made by a two-thirds majority vote of
+working group members without a conflict of interest. If the working group
+cannot reach consensus or a sufficient majority within a reasonable timeframe,
+the working group will turn the matter over to the board for resolution.
 
 ### Enforcement Ladder
 
@@ -262,20 +291,4 @@ all involved parties while providing community accountability.
 
 ---
 
-## Editor's Note
-
-Writing and maintaining this document poses a unique challenge. Most similar
-guides are written on the assumption of in-person events. However, the Django
-community doesn't exist in one place, and most of the time we're spread out
-across the world and interact online. This makes defining and enforcing
-community standards a different type of challenge.
-
-This document was originally adapted from the [Ada Initiative template](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)
-and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/).
-In 2026, it was substantially revised to align with [Contributor Covenant version 3.0](https://www.contributor-covenant.org/version/3/0/code_of_conduct/)
-and informed by the [OpenJS Foundation's Code of Conduct enforcement materials](https://github.com/openjs-foundation/cross-project-council/tree/main/conduct),
-while maintaining Django's specific needs and community structure.
-
-It is our expectation that this will remain a living document, evolving as
-we continue to learn and grow in our understanding of how to best serve our
-community's ideals and ensure a welcoming, safe space for all contributors.
+Our documents and policies are adapted from and inspired by a number of [sources](sources.md).

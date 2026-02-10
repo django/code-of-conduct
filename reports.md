@@ -216,6 +216,6 @@ of Conduct issue, our committee doesn't carry the responsibility of informing
 the subject of the report that the record will be kept by us unless there is a
 clear reason why we would like to follow up to find out their side of the story.
 
-----
+---
 
-[Go to next chapter: Communications Guidelines](communications.md) :point_right:
+Our documents and policies are adapted from and inspired by a number of [sources](sources.md).

@@ -2,12 +2,14 @@
 
 ## Structure of membership in the working group
 
-Members of the working group are all volunteers, and we're always aiming to have
-high representation of people coming from different places and backgrounds.
-There is no set number of people required to be on the working group at the moment.
-The working group tries to keep the number as small as possible due to sensitivity of
-the matter, but big enough to achieve diversity of the views and fast response
-time to incoming reports.
+Members of the working group are all volunteers. Consistent with [Django's commitment to diversity](https://www.djangoproject.com/diversity/), the working group actively seeks members who bring diverse perspectives, including:
+
+- People from different geographic regions where Django is used
+- People from marginalized groups who understand challenges community members may face
+- Different levels of involvement in Django (core developers, contributors, users, event organizers)
+- Relevant skills such as conflict resolution, community management, or trauma-informed care
+
+The working group keeps the number as small as possible due to sensitivity of the matter, but large enough to achieve diversity of views and fast response time to incoming reports.
 
 Whenever there is a need to add new members, the working group reviews proposals from
 people who volunteered thus far but are not on the working group yet. If that
@@ -44,3 +46,28 @@ number is still too low, a call for volunteers is published on Django blog.
 - Rebecca Conley
 - Amber Brown (Hawkowl)
 - Chaim Kirby
+
+## Advisers to the working group
+
+Advisers provide specialized expertise to support the working group's decision-making
+but are not voting members. Advisers may be consulted on specific cases or policy
+decisions where their expertise is relevant.
+
+Advisers may bring specialized knowledge in areas such as:
+
+- Legal expertise related to defamation, privacy, or employment law
+- Mental health and trauma-informed response
+- Human resources and workplace conflict resolution
+- Community management and restorative justice practices
+- Cultural competency for specific communities or regions
+
+Advisers are required to abide by the same confidentiality and privacy guidelines
+as voting members of the working group. They have access to working group
+communications and case materials only as needed for their advisory role, and
+must recuse themselves from matters where they have a conflict of interest.
+
+Currently, the working group has no advisers.
+
+---
+
+Our documents and policies are adapted from and inspired by a number of [sources](sources.md).

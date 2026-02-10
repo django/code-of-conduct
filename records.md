@@ -114,7 +114,6 @@ whilst they are members of the committee.
 Slack is not used for discussing sensitive information, only for quick
 coordination of actions.
 
-----
+---
 
-[Go to next chapter: Support for conference organizers](conferences.md)
-:point_right:
+Our documents and policies are adapted from and inspired by a number of [sources](sources.md).

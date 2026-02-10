@@ -27,8 +27,6 @@ There are several ways in which we are transparent right now:
 
 We welcome suggestions on improving the transparency of the committee. 
 
-----
+---
 
-[Go to next chapter: Statistics](statistics.md) :point_right:
-
-
+Our documents and policies are adapted from and inspired by a number of [sources](sources.md).

@@ -15,6 +15,10 @@ incidents.
 providing clarity around the nature of the violation and an explanation
 of why the behavior was inappropriate.
 
+**Suggested Behavioral Modifications:** May include requesting the person
+refrain from specific language or discussion topics, cease direct contact
+with specific individuals, or adjust their communication style.
+
 **Opportunities for Repair:** The violator may be asked to provide a
 private written apology, acknowledge responsibility for their actions,
 and demonstrate understanding of community expectations.
@@ -31,6 +35,11 @@ Django community spaces or members is permitted, including unsolicited
 interaction with those enforcing the Code of Conduct. At the conclusion
 of the suspension period, the individual must request readmission to
 Django community spaces.
+
+**Suggested Behavioral Modifications:** May include restrictions on
+participating in specific channels or discussions, requirements not to
+contact certain individuals, or removal from moderator/leadership roles
+upon return.
 
 **Opportunities for Repair:** The violator should use this time to
 reflect on their actions and impact. They may be asked to demonstrate
@@ -50,6 +59,11 @@ The working group may set specific conditions for return, such as
 demonstrating changed behavior or completing specific actions. At the
 conclusion of the suspension period, the individual must request
 readmission to Django community spaces.
+
+**Suggested Behavioral Modifications:** May include permanent removal from
+leadership or moderator positions, restrictions on which spaces they may
+participate in, required supervision or mentorship upon return, or
+prohibitions on specific types of interactions.
 
 **Opportunities for Repair:** Before the suspension ends, the violator
 must meet any conditions set by the working group. This may include
@@ -87,3 +101,7 @@ The working group may also employ the following responses:
 The working group maintains records of all resolutions so that they may
 be reviewed in the future, extended to new Django spaces, or otherwise
 maintained.
+
+---
+
+Our documents and policies are adapted from and inspired by a number of [sources](sources.md).

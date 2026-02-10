@@ -58,3 +58,7 @@ Upon receiving reports from a conference, the committee will:
 Reporting any (even resolved) Code of Conduct
 violations to us helps us create one, central record of incidents to help make all
 events safer.
+
+---
+
+Our documents and policies are adapted from and inspired by a number of [sources](sources.md).

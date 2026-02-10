@@ -243,3 +243,7 @@ All members of the working group involved in handling a specific incident
 report have access to all records related to that report. This ensures
 informed decision-making. The board may request access to records for
 oversight purposes.
+
+---
+
+Our documents and policies are adapted from and inspired by a number of [sources](sources.md).
