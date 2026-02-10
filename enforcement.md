@@ -99,6 +99,12 @@ reasonable timeframe. If a resolution requires more time, the working group
 will respond to the reporter(s) with an update and projected timeline for
 resolution.
 
+When communicating with all parties involved, the working group should follow
+the [Communications Guidelines](communications.md), which provide detailed
+guidance on protecting reporters, using trauma-informed language, engaging
+with reported parties, and handling sensitive conversations about repair and
+accountability.
+
 ## Record Keeping and Privacy
 
 ### Record Retention
@@ -273,5 +279,3 @@ while maintaining Django's specific needs and community structure.
 It is our expectation that this will remain a living document, evolving as
 we continue to learn and grow in our understanding of how to best serve our
 community's ideals and ensure a welcoming, safe space for all contributors.
-
-_Last updated: March 2026_

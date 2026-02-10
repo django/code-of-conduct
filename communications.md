@@ -1,90 +1,113 @@
-:point_left: [Come back to index](README.md)
-
-# Django Code of Conduct
-
-## Communications guidelines
+# Django Code of Conduct Communications Guidelines
 
 When communicating with reporters and subjects of the report, it's important to
 keep the following in mind:
 
-### Protect reporters
+## Protect reporters
 
-* Protecting reporters is our first priority. Never forward communication or
-disclose identities of reporters outside of the code of conduct committee,
-without the express written permission of the person concerned.
-* If adding or removing people from the recipients list of an email thread, note
-the change at the top of the email, like this:
+- Protecting reporters is our first priority. Never forward communication or
+  disclose identities of reporters outside of the code of conduct committee,
+  without the express written permission of the person concerned.
+- If adding or removing people from the recipients list of an email thread, note
+  the change at the top of the email, like this:
 
-  > [+ John]
-  > [- Eric]
+  > [+ Maya]
+  > [- Alex]
 
   this helps guard against someone accidentally sharing protected information
-  without being aware of the recipients. 
+  without being aware of the recipients.
 
-### Communicate professionally
+## Communicate professionally
 
-* Different people will experience the same situation in different ways.
-Subjective or emotional language is easily misinterpreted or disputed, for
-example naming someone as thinking or feeling something. Instead, stick to
-observed facts.
-* Always cc conduct@djangoproject.com on communication, or forward replies that
-had the address removed.
+- Different people will experience the same situation in different ways.
+  Use specific, factual language that describes observable behaviors and their
+  impact rather than making assumptions about intent or internal states. This
+  trauma-informed approach helps all parties understand what occurred while
+  minimizing further harm.
+- Always cc <conduct@djangoproject.com> on communication, or forward replies that
+  had the address removed.
 
-### Confronting subjects of reports
+## Engaging with reported parties
 
-* No matter how compelling the evidence, we need to give people who are subjects
-of reports some sort of "right of reply" before we finalise our decision. That
-doesn't mean we have to disclose details, or let them excuse their bad behavior -
-but we should engage them in a process, rather than just pronouncing a
-decision. If someone feels like they're engaged in a process, rather than just
-being railroaded, they're less likely to criticise the process after the fact.
+- All parties involved deserve to be heard. People who are the subject of reports
+  should have an opportunity to respond before we finalize our decision. This
+  doesn't mean disclosing reporter identities or minimizing the harm caused, but
+  rather engaging them in a fair process. A transparent process that respects
+  everyone's dignity leads to better outcomes and fewer disputes.
 
-* We need to make sure we don't lose sight of the goal. The goal isn't "get them" -
-it's "make the community safer". It's a subtle point, but an important one,
-because it shapes some of the actions we might take.
+- Keep the primary goal centered: creating a safer, more welcoming community for
+  everyone. This means focusing on accountability, understanding impact, and
+  supporting behavior change rather than simply punishing individuals. This
+  restorative approach shapes more effective interventions.
 
-* To that end, one big piece of advice - don't underestimate just asking. If we
- ask problematic individuals not to attend Django events in future, rather than
- ban them, there's a good chance they'll just comply.
+- In many cases, directly requesting that someone not attend Django events or
+  refrain from certain behaviors can be effective. When approached with clarity
+  about expectations and consequences, many individuals will voluntarily comply.
 
+## Sharing information about reported parties
 
-### Sharing information about subjects of reports
+Sharing information with other community leaders or making information public may
+be necessary when the community remains at risk despite private interventions.
 
-Going public, or telling others, is sometimes necessary when the community
-remains at risk after the actions we can take in private.
+When deciding to share information about individuals who have violated the Code
+of Conduct, there is potential for claims of slander, libel, defamation of
+character, and reputational damage. In serious cases we should seek legal advice.
+The following approaches mitigate this risk:
 
-When deciding to share information about a problematic individual, there's
-potential for claims of slander, libel, defamation of character and
-reputational damage. In serious cases we should seek legal advice. The
-following approaches mitigate this risk: 
+- Whenever possible, work to corroborate reports with multiple sources or
+  identify patterns of behavior. This enables us to:
+  1. Describe patterns of behavior rather than isolated incidents, which provides important context for protective actions.
+  2. Protect individual reporters by not centering any single report.
 
-* We should do everything we can to get multiple corroboration of any complaint. 
-That enables us to do two things:
+- There's an important distinction between providing information and directing
+  action. If we instruct event organizers "Don't invite this person," we become
+  directly responsible for any reputational consequences. However, if we inform
+  organizers that a person has been the subject of Code of Conduct reports
+  relating to specific types of incidents, while leaving the final decision to
+  them, the DSF is providing information to help them make informed decisions
+  about their events.
 
-	 1. Say "this is a pattern of behavior", not "this is one bad incident". This
-strengthens the case we can make for any action, because we're not
-"overreacting to one bad incident".
-	 2. Deflect the "blame" for reporting away from a specific reporter.
+- All information sharing must be documented in writing rather than through
+  video calls or voice conversations. When informing community organizers about
+  individuals who have violated the Code of Conduct, communicate via email using
+  precise, factual language that makes clear they are empowered to make their
+  own decisions based on the information provided.
 
-* There's a difference between giving someone information, and telling them what
-to do. If we *told* event organizers "Don't invite this person", then we're the
-direct cause of any reputational damage they may suffer. If, however, we tell
-organizers that a person has been the subject of (1 or more) code of conduct
-complaints, relating to incidents x, y and z - but leave the decision as to
-whether they are banned/not invited up to the organizers - then the DSF has
-more legal cover, because all we're doing is providing information, not
-directing action.
+- Strict adherence to our established processes is essential. Any claims of
+  improper handling will examine whether we followed our documented procedures
+  consistently and fairly.
 
-* Any information we communicate needs to be written down, not done over
-Skype/Hangout. If we tell community organizers about problem individuals, we
-need to email our response, and make sure we're very careful in our language so
-that it's perfectly clear that it's up to *them* what they choose to do with
-the information we give them.
+## Communicating about repair and accountability
 
-* We need to make sure we follow our process to the letter. Any claims made about
-"reckless behavior leading to loss of reputation" will hinge on whether we
-actually followed our own processes.
+Aligned with Contributor Covenant 3.0's focus on repairing harm, our
+communications should emphasize accountability, growth, and community healing.
 
-----
+- **Focus on impact, not intent.** When discussing violations with reported
+  parties, center the conversation on the harm caused rather than debating their
+  intentions. Acknowledge that harm can occur even when unintended.
 
-[Go to next chapter: Record-keeping](records.md) :point_right:
+- **Be clear about expectations.** Communicate specific, actionable expectations
+  for behavior change. Vague requests like "be better" are less effective than
+  concrete guidance such as "Do not contact Jin directly; communicate only
+  through the working group."
+
+- **Support accountability.** When appropriate enforcement actions include
+  opportunities for repair (such as apologies or acknowledgment of
+  responsibility), provide guidance on what meaningful accountability looks like.
+  This might include acknowledging the specific harm caused, demonstrating
+  understanding of the impact, and committing to behavior change.
+
+- **Use trauma-informed language.** Avoid language that minimizes harm ("just a
+  misunderstanding") or blames those who were harmed ("they were too sensitive").
+  Use person-first language that separates the behavior from the individual's
+  identity.
+
+- **Respect everyone's dignity.** Even when addressing serious violations,
+  communicate in ways that preserve the humanity of all involved. This doesn't
+  mean avoiding consequences, but rather implementing them with respect and
+  clarity.
+
+- **Provide appropriate context for repair actions.** When communicating repair
+  actions to reporters or the broader community, explain how they address the
+  harm and support community safety without unnecessarily disclosing private
+  details.
