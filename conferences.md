@@ -8,7 +8,7 @@ that will handle any Code of Conduct violations at the event. It's very
 important that your attendees feel and are protected at your event.
 
 Establishing and enforcing Code of Conduct at events is not easy. Here is how
-Django Code of Conduct committee can help event organizers to ensure safe
+Django Code of Conduct Working Group can help event organizers to ensure safe
 environments at events.
 
 ## Before the event
@@ -41,19 +41,19 @@ environments at events.
 
 Conferences in the Django community are strongly encouraged to keep reports
 on all Code of Conduct incidents they handle, and send these reports to the
-committee after the end of the conference. Reports should include names
+working group after the end of the conference. Reports should include names
 of people involved and, ideally, a description of the facts determined by
 the conference team, the review of the incident, actions taken, and responses
 to actions taken. We also appreciate any screenshots of original slack or
 twitter messages, or recordings of talks, that show the violation, and
 copies of message exchanges between the team and any reporters or reported parties.
 
-Upon receiving reports from a conference, the committee will:
+Upon receiving reports from a conference, the working group will:
 
 - Confirm receipt of the reports to the conference.
 - Review all reports.
-- Assess whether any additional action from the committee is needed.
-- Record all reports in the committee’s records.
+- Assess whether any additional action from the working group is needed.
+- Record all reports in the working group's records.
 
 Reporting any (even resolved) Code of Conduct
 violations to us helps us create one, central record of incidents to help make all

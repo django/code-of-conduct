@@ -5,10 +5,10 @@
 ## Statistics
 
 In the spirit of transparency, we're sharing numbers of Code of Conduct
-violations that were reported to the Code of Conduct committee in the recent
+violations that were reported to the Code of Conduct Working Group in the recent
 years.
 
-These statistics are compiled annually by the Code of Conduct Committee.
+These statistics are compiled annually by the Code of Conduct Working Group.
 
 | Year | Reports | People named | Actions taken by us | Actions taken by local reps | People banned or flagged | Lack of actions taken |
 | :--- | :------ | :----------- | :------------------ | :-------------------------- | :----------------------- | :-------------------- |
@@ -23,10 +23,10 @@ These statistics are compiled annually by the Code of Conduct Committee.
 | 2016 | 13      | 10           | 2                   | 11                          | 1                        | 1                     |
 | 2015 | 11      | 14           | 1                   | 6                           | 1                        | 4                     |
 
-- **Report** - total number of issues reported to the Code of Conduct committee
+- **Report** - total number of issues reported to the Code of Conduct Working Group
 - **People named** - total number of people named in the received reports
 - **Actions taken by us** - number of reports when the action has been taken
-  directly by the Code of Conduct committee
+  directly by the Code of Conduct Working Group
 - **Actions taken by local reps** - number of reports when the action has been
   taken by online spaces moderators or events organizers
 - **People banned or flagged** - number of people who has been banned
