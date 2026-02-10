@@ -1,6 +1,6 @@
 # Django Code of Conduct - Enforcement Manual
 
-This is the enforcement manual followed by Django's Code of Conduct working group.
+This is the enforcement manual followed by Django's Code of Conduct Working Group.
 It's used when we respond to an issue to make sure we're consistent and fair.
 It should be considered an internal document, but we're publishing it publicly in
 the interests of transparency.
@@ -8,8 +8,7 @@ the interests of transparency.
 ## The Code of Conduct Working Group
 
 All responses to reports of conduct violations will be managed by the
-[Code of Conduct working
-group](https://www.djangoproject.com/foundation/teams/#code-of-conduct-team).
+[Code of Conduct Working Group](https://www.djangoproject.com/foundation/teams/#code-of-conduct-team).
 
 The Django Software Foundation's Board of Directors ("the board")
 will establish this working group, comprised of at least three members.
@@ -17,16 +16,65 @@ One member will be designated chair of the working group and will be
 responsible for all reports back to the board. The board will review
 membership on a regular basis.
 
+## Coordination with Online Community Working Group
+
+The [Online Community Working Group](https://github.com/django/dsf-working-groups/blob/main/active/online-community.md)
+handles day-to-day moderation of Django's online spaces and has flexibility to
+address minor infractions within those spaces using their own moderation processes.
+
+The Code of Conduct Working Group becomes involved when:
+
+- A formal report is submitted directly to the Code of Conduct Working Group
+- A violation occurs across multiple Django spaces
+- The Online Community Working Group escalates an issue that requires formal Code of Conduct enforcement
+- An issue at a Django event or sponsored event is escalated to the working group
+
+Each working group designates a liaison from its own members to facilitate
+coordination and communication between the groups.
+
+## Scope
+
+This Code of Conduct applies to all spaces managed by the Django project or
+Django Software Foundation, including but not limited to:
+
+- The Django Forum
+- GitHub repositories and issue trackers
+- Mailing lists
+- Discord, IRC, and other chat platforms
+- Social media accounts
+- DSF events and Django community events
+
+The Code of Conduct also applies when an individual is officially representing
+the Django community in public spaces. Examples of official representation include:
+
+- Using an official Django email address
+- Posting via an official Django social media account
+- Acting as an appointed representative at an online or offline event
+- Speaking or presenting as a Django representative
+
+### Sponsored Events
+
+Django-sponsored events (such as DjangoCon conferences) are required to have
+their own Code of Conduct. Issues at sponsored events can be escalated to the
+Code of Conduct Working Group by:
+
+- The event's code of conduct team
+- The reporter
+- The reported party
+
+The Code of Conduct Working Group will coordinate with event organizers to
+determine appropriate responses that respect both the event's autonomy and
+Django's community standards.
+
 ## How the working group will respond to reports
 
-When a report is sent to the working group they will immediately reply
-to the report to confirm receipt. This reply must be sent within 24
-hours, and the working group should strive to respond much quicker than
-that.
+When a report is sent to the working group, they will immediately reply
+to the report to confirm receipt. The working group strives to respond
+promptly, recognizing that as volunteers, coordination may take time. The
+working group will keep the reporter informed of progress and any delays.
 
-See the [reporting
-guidelines](https://www.djangoproject.com/conduct/reporting/) for
-details of what reports should contain. If a report doesn't contain
+See the [reporting guidelines](https://www.djangoproject.com/conduct/reporting/)
+for details of what reports should contain. If a report doesn't contain
 enough information, the working group will obtain all relevant data
 before acting. The working group is empowered to act on the DSF's
 behalf in contacting any individuals involved to get a more complete
@@ -41,100 +89,265 @@ best of their ability:
 - whether this is an ongoing situation, and there is a threat to
   anyone's physical safety
 
-This information will be collected in writing, and whenever possible the
-working group's deliberations will be recorded and retained (i.e. chat
-transcripts, email discussions, recorded voice conversations, etc).
+This information will be collected in writing. The working group documents
+its deliberations through email discussions, notes and takeaways from
+meetings, and by recording decisions from DSF Slack conversations into
+their notes.
 
-The working group should aim to have a resolution agreed upon within one
-week. In the event that a resolution can't be determined in that time,
-the working group will respond to the reporter(s) with an update and
-projected timeline for resolution.
+The working group should aim to have a resolution agreed upon within a
+reasonable timeframe. If a resolution requires more time, the working group
+will respond to the reporter(s) with an update and projected timeline for
+resolution.
+
+## Record Keeping and Privacy
+
+### Record Retention
+
+The working group maintains records of all information and communications
+related to incident reports, including:
+
+- Initial reports and all communications with reporters
+- Investigation materials and evidence
+- Email discussions and documented deliberations
+- Notes and key takeaways from meetings
+- Decisions made in DSF Slack (recorded into meeting notes)
+- Communications with all involved parties
+- Final resolutions and any follow-up actions
+
+Records are retained in accordance with the Django Software Foundation's
+data retention policies and applicable privacy laws.
+
+### Access to Records
+
+All members of the working group involved in handling a specific incident
+report have access to all records related to that report. This ensures
+informed decision-making. The board may request access to records for
+oversight purposes.
+
+### Privacy Policy Commitments
+
+The working group is committed to protecting the privacy and personal
+information of all parties involved in Code of Conduct matters. Personal
+data is:
+
+- Stored securely with access limited to working group members
+- Used only for the purpose of investigating and resolving reports
+- Retained only as long as necessary
+- Protected in accordance with applicable data protection regulations
+
+## Confidentiality
+
+### Protection of Reporter and Harmed Individual
+
+The identity of the reporter and any harmed individual(s) must be kept
+strictly confidential. This information will not be shared beyond the working
+group members handling the case, except:
+
+- When necessary to conduct the investigation
+- When required for immediate safety interventions
+- When required by law
+
+### Protection of the Accused
+
+The identity of the accused individual should be kept confidential during
+the investigation and resolution process. However, implementing certain
+decisions may require sharing limited information beyond the working group,
+such as:
+
+- Communicating a ban to community moderators
+- Taking immediate action to prevent ongoing harm
+- Responding to public statements by the accused
+
+When the accused individual chooses to discuss the matter publicly, the
+obligation of confidentiality toward them is reduced. However, the working
+group will still:
+
+- Maintain confidentiality about the reporter and harmed individuals
+- Not make any public statements (any public statements are made by the DSF Board)
+- Avoid retaliatory or excessive disclosures
+
+In all cases, information sharing should be limited to what is strictly
+necessary to address the situation and implement the resolution. The working
+group does not comment publicly on incidents; if public statements are necessary,
+they are made by the DSF Board.
+
+## Conflicts of Interest
+
+Any member of the working group must immediately notify the other members
+in writing (by disclosure on the report email thread) and recuse themselves
+from handling a report if they:
+
+- Are involved in the incident itself
+- Have a personal relationship with any involved party
+- Work for the same employer as an involved party
+- Have access to private information that could bias their judgment
+- Have any other conflict of interest that could affect their impartiality
+
+If a report concerns a possible violation by a current working group member,
+that member must be excluded from the response process. For these cases,
+anyone can make a report directly to any of the other working group members,
+as documented in the [reporting guidelines](https://www.djangoproject.com/conduct/reporting/).
 
 ## Acting Unilaterally
 
-If the act is ongoing (such as someone engaging in harassment on the
-forum), or involves a threat to anyone's safety (e.g. threats of
-violence), any working group member may act immediately (before reaching
-consensus) to end the situation. In ongoing situations, any member may
-at their discretion employ any of the tools available to the working
-group, including bans and blocks.
+If the act is ongoing (such as someone engaging in harassment in an online
+space), or involves a threat to anyone's safety (e.g. threats of violence),
+any working group member may act immediately (before reaching consensus) to
+end the situation. In ongoing situations, any member may at their discretion
+employ any of the tools available to the working group, including bans and
+blocks.
 
 If the incident involves physical danger, any member of the working
-group may \-- and should \-- act unilaterally to protect safety. This
-can include contacting law enforcement (or other local personnel) and
-speaking on behalf of the DSF.
+group must act unilaterally to protect safety. This can include contacting
+law enforcement (or other local personnel) and speaking on behalf of the DSF.
 
-In situations where an individual working group member acts
-unilaterally, they must report their actions to the working group for
-review within 24 hours.
+In situations where an individual working group member acts unilaterally,
+they must report their actions to the working group for review within 24 hours.
 
 ## Resolutions
 
 The working group must agree on a resolution by consensus. If the
-working group cannot reach consensus and deadlocks for over a week, the
+working group cannot reach consensus within a reasonable timeframe, the
 working group will turn the matter over to the board for resolution.
 
-Possible responses may include:
+### Enforcement Ladder
 
-- Taking no further action (if we determine no violation occurred).
-- A private reprimand from the working group to the individual(s)
-  involved. In this case, a working group member will deliver that
-  reprimand to the individual(s) over email, cc'ing the working group.
-- A public reprimand. In this case, a working group member will deliver
-  that reprimand in the same venue that the violation occurred (i.e. in
-  the forum for a forum violation; email for an email violation, etc.).
-  The working group may choose to publish this message elsewhere for
-  posterity.
-- An imposed vacation (i.e. asking someone to "take a week off" from
-  the forum). A working group member will communicate this "vacation"
-  to the individual(s). They'll be asked to take this vacation
-  voluntarily, but if they don't agree then a temporary ban may be
-  imposed to enforce this vacation.
-- A permanent or temporary ban from some or all Django spaces (the
-  forum, etc.). The working group will maintain records of all such bans
-  so that they may be reviewed in the future, extended to new Django
-  fora, or otherwise maintained.
-- A request for a public or private apology. a working group member will
-  deliver this request. The working group may, if it chooses, attach
-  "strings" to this request: for example, the working group may ask a
-  violator to apologize in order to retain his or her membership on the
-  forum.
+The following enforcement ladder may be used to determine how best to address
+a Code of Conduct violation with the goal of repairing harm. The working group
+will consider the incident's impact on individuals involved and the community
+as a whole. Depending on the severity of a violation, lower levels may be skipped.
+
+#### 1. Warning
+
+**Event:** A violation involving a single incident or series of incidents.
+
+**Consequence:** A private, written warning from the working group, providing
+clarity around the nature of the violation and an explanation of why the
+behavior was inappropriate.
+
+**Opportunities for Repair:** The violator may be asked to provide a private
+written apology, acknowledge responsibility for their actions, and demonstrate
+understanding of community expectations.
+
+#### 2. Temporary Suspension (Short-term)
+
+**Event:** A repeated violation after a warning, or a first instance of a
+more serious violation.
+
+**Consequence:** A temporary suspension from Django community spaces for a
+defined period (typically 30-90 days, determined by the working group based
+on the circumstances). During this period, no interaction with Django
+community spaces or members is permitted, including unsolicited interaction
+with those enforcing the Code of Conduct. At the conclusion of the suspension
+period, the individual must request readmission to Django community spaces.
+
+**Opportunities for Repair:** The violator should use this time to reflect
+on their actions and impact. They may be asked to demonstrate understanding
+of what behavior changes are needed before the suspension ends. An apology
+or acknowledgment of harm may be requested. The request for readmission should
+demonstrate reflection and commitment to changed behavior.
+
+#### 3. Temporary Suspension (Extended)
+
+**Event:** A repeated violation after a short-term suspension, ongoing
+problematic behavior, or a serious single violation.
+
+**Consequence:** An extended temporary suspension from all Django community
+spaces for a longer defined period (typically 90 days or more). The working
+group may set specific conditions for return, such as demonstrating changed
+behavior or completing specific actions. At the conclusion of the suspension
+period, the individual must request readmission to Django community spaces.
+
+**Opportunities for Repair:** Before the suspension ends, the violator must
+meet any conditions set by the working group. This may include providing a
+written statement about lessons learned, outlining how they will change their
+behavior, or other restorative actions. The request for readmission must
+demonstrate that all conditions have been met. The working group will evaluate
+readiness to return thoughtfully.
+
+#### 4. Permanent Ban
+
+**Event:** A pattern of repeated violations that other steps on the enforcement
+ladder have failed to address, or a single violation so serious that the
+working group determines there is no way to maintain community safety with
+this person as a member.
+
+**Consequence:** Permanent removal from all Django community spaces, tools,
+and communication channels. The individual may also be prohibited from
+participating in Django events.
+
+**Repair:** Permanent bans are a last resort and indicate that other remediation
+efforts have been exhausted or that the violation is too severe to allow
+continued participation.
+
+### Additional Resolution Options
+
+The working group may also employ the following responses:
+
+- **Taking no further action** if the working group determines no violation
+  occurred or that the issue is better addressed through other means.
+- **Facilitated communication** between parties when appropriate and when all
+  parties consent.
+- **Referral to the Online Community Working Group** for ongoing monitoring
+  or support within specific spaces.
+
+The working group maintains records of all resolutions so that they may be
+reviewed in the future, extended to new Django spaces, or otherwise maintained.
+
+## Feedback from Affected Parties
 
 Once a resolution is agreed upon, but before it is enacted, the working
-group will contact the original reporter and any other affected parties
-and explain the proposed resolution. The working group will ask if this
-resolution is acceptable, and must note feedback for the record.
-However, the working group is not required to act on this feedback.
+group will contact the original reporter and any other affected parties and
+explain the proposed resolution. The working group will ask if this resolution
+is acceptable, and must note feedback for the record.
 
-Finally the working group will make a report for the DSF board. In case
+However, the working group is not required to act on this feedback. The final
+decision rests with the working group, using their best judgment to balance
+the needs of the affected parties with the safety and health of the broader
+community.
+
+## Reporting to the Board
+
+Finally, the working group will make a report for the DSF board via the board liason. In case
 the incident or report involves a current member of the board, the
 working group will provide the report only to the other board members.
 
-The working group will never publicly discuss the issue; all public
-statements will be made by the DSF board.
+## Transparency and Public Accountability
 
-## Conflicts of Interest
+The working group will never publicly discuss specific incidents. All public
+statements about individual Code of Conduct matters will be made by the DSF
+board, if deemed necessary.
 
-In the event of any conflict of interest a working group member must
-immediately notify the other members, and recuse themselves if
-necessary. If a report concerns a possible violation by a current
-working group member, this member should be excluded from the response
-process. For these cases, anyone can make a report directly to any of
-the working group chairs, as documented in the [reporting
-guidelines](https://www.djangoproject.com/conduct/reporting/).
+However, to demonstrate that the Code of Conduct is being actively and fairly
+enforced, the working group will publish annual transparency reports including
+anonymized statistics such as:
+
+- Number of reports received
+- Types of violations reported
+- General outcomes (warnings, suspensions, bans)
+- Any trends or patterns observed
+
+These reports will be prepared in a way that protects the confidentiality of
+all involved parties while providing community accountability.
 
 ---
 
-_Editor's note: Writing this document posed a unique challenge. Most
-similar guides are written on the assumption of an in-person event.
-However, the Django community doesn't exist in one place, and most of
-the time we're spread out across the world and interact online. This
-makes trying to define and enforce community standards a different type
-of challenge. This document is adapted from the [Ada Initiative
-template](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)
-and the [PyCon 2013 Procedure for Handling Harassment
-Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/),
-but changed to reflect the nature of our community. It is our
-expectation that this will be a living document and change as we grow to
-understand how to meet this challenge and best serve our community and
-ideals._
+## Editor's Note
+
+Writing and maintaining this document poses a unique challenge. Most similar
+guides are written on the assumption of in-person events. However, the Django
+community doesn't exist in one place, and most of the time we're spread out
+across the world and interact online. This makes defining and enforcing
+community standards a different type of challenge.
+
+This document was originally adapted from the [Ada Initiative template](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)
+and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/).
+In 2026, it was substantially revised to align with [Contributor Covenant version 3.0](https://www.contributor-covenant.org/version/3/0/code_of_conduct/)
+and informed by the [OpenJS Foundation's Code of Conduct enforcement materials](https://github.com/openjs-foundation/cross-project-council/tree/main/conduct),
+while maintaining Django's specific needs and community structure.
+
+It is our expectation that this will remain a living document, evolving as
+we continue to learn and grow in our understanding of how to best serve our
+community's ideals and ensure a welcoming, safe space for all contributors.
+
+_Last updated: March 2026_
