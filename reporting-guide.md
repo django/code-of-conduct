@@ -105,7 +105,7 @@ determine:
 
 - What happened.
 - Whether this event constitutes a Code of Conduct violation.
-- Who the bad actor was.
+- Who was responsible for the behavior.
 - Whether this is an ongoing situation, or if there is a threat to
   anyone's physical safety.
 
@@ -125,7 +125,7 @@ For ongoing situations or threats to safety, working group members may
 act immediately (before reaching consensus) to protect community members.
 This can include temporarily restricting someone's access to certain
 spaces or requiring they avoid contact with specific individuals. See our
-[Enforcement Manual](enforcement.md) for more details on how we handle
+[Working Group Manual](working-group-manual.md#acting-unilaterally) for more details on how we handle
 urgent situations.
 
 ### Investigation and Resolution
@@ -139,10 +139,10 @@ group cannot reach consensus within a reasonable timeframe, the working
 group will turn the matter over to the board for resolution.
 
 Once the working group has a complete account of the events, they will
-make a decision as to how to respond using our [Enforcement
-Ladder](enforcement-ladder.md). The enforcement ladder includes responses
-ranging from warnings to permanent bans, with the goal of repairing harm
-while considering the incident's impact on individuals and the community.
+make a decision as to how to respond using our
+[Enforcement Ladder](enforcement-ladder.md). The enforcement ladder includes
+responses ranging from warnings to permanent bans, with the goal of repairing
+harm while considering the incident's impact on individuals and the community.
 Depending on the severity of a violation, lower levels may be skipped.
 
 ### Your Input on the Resolution
@@ -184,8 +184,7 @@ group, as all members will see the report.
 
 In that case, you can make a report directly to any or all of the current
 chairs of the Code of Conduct working group. Their email addresses are
-listed on the [Code of Conduct working
-group](https://www.djangoproject.com/foundation/teams/#code-of-conduct-team)
+listed on the [Code of Conduct working group](https://www.djangoproject.com/foundation/teams/#code-of-conduct-team)
 page. The chairs will follow the usual enforcement process with the other
 members, but will exclude the member(s) that the report concerns from any
 discussion or decision making.

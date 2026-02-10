@@ -19,7 +19,7 @@ of why the behavior was inappropriate.
 refrain from specific language or discussion topics, cease direct contact
 with specific individuals, or adjust their communication style.
 
-**Opportunities for Repair:** The violator may be asked to provide a
+**Opportunities for Repair:** The person may be asked to provide a
 private written apology, acknowledge responsibility for their actions,
 and demonstrate understanding of community expectations.
 
@@ -41,7 +41,7 @@ participating in specific channels or discussions, requirements not to
 contact certain individuals, or removal from moderator/leadership roles
 upon return.
 
-**Opportunities for Repair:** The violator should use this time to
+**Opportunities for Repair:** The individual should use this time to
 reflect on their actions and impact. They may be asked to demonstrate
 understanding of what behavior changes are needed before the suspension
 ends. An apology or acknowledgment of harm may be requested. The request
@@ -65,7 +65,7 @@ leadership or moderator positions, restrictions on which spaces they may
 participate in, required supervision or mentorship upon return, or
 prohibitions on specific types of interactions.
 
-**Opportunities for Repair:** Before the suspension ends, the violator
+**Opportunities for Repair:** Before the suspension ends, the individual
 must meet any conditions set by the working group. This may include
 providing a written statement about lessons learned, outlining how they
 will change their behavior, or other restorative actions. The request for
