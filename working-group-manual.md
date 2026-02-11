@@ -353,20 +353,22 @@ Finally, the working group will make a report for the DSF board via the board li
 
 Regardless of the outcome, we note each report and outcome in our records. The spreadsheet with status of open and closed cases has the following format:
 
+- **Date of Report** - When the report was received
+- **Case Code Name** - A randomly generated code name (e.g., "home shelf", "stunned bulb") assigned to the case for privacy purposes. To generate one, select the cell in the spreadsheet and click **Django CoC > Generate Code Name** in the menu.
+- **Person Code Name** - A persistent code name assigned to the reported person (e.g., "Person A", "Blue Jay") to track repeat reports without using real names in the spreadsheet.
+- **Status** - Ongoing/Resolved - Current status of the case
+- **Resolution Source** - Who handled the resolution (e.g., "CoC WG", "DSF Board", "Local Event Reps", "None")
+- **Resolution Date** - When the status was set to Resolved
 - **Safety Risk** - Yes/No - Does this incident pose a safety risk or include threats to physical safety?
 - **Ongoing Harassment** - Yes/No/Maybe - Is there a risk of repeated behavior?
-- **Status** - Ongoing/Resolved - Current status of the case
-- **Code Name** - A randomly generated code name (e.g., "home shelf", "stunned bulb") assigned to the case for privacy purposes. Use an [online random phrase generator](http://watchout4snakes.com/wo4snakes/Random/RandomPhrase) to create code names.
-- **Date of Report** - When the report was received
-- **Behavioral Modification** - Actions required of the reported person (e.g., "Do not contact reporter", "Removed from moderator role")
-- **Consequences** - Enforcement actions taken (e.g., "Written warning", "Temporary ban for 90 days", "Permanent ban")
-- **Documentation** - Link to detailed documentation of the case (see below)
+- **Consequences** - Enforcement actions taken (e.g., "None", "Warning", "First Suspension", "Second Suspension", "Ban", "Other")
+- **Documents** - Link to detailed documentation of the case (see below)
 
 Keep resolutions and notes vague enough that working group members with a conflict of interest don't know the details of the incident. Use gender-neutral language when describing the reported person in the spreadsheet.
 
 ### Report Documentation
 
-Each report should be assigned a code name (using the random phrase generator). The code name should be used in the document's title. Only working group members without a conflict of interest should have access to the report documentation.
+Each report should be assigned a case code name (generated via the spreadsheet menu). The case code name should be used in the document's title. Only working group members without a conflict of interest should have access to the report documentation.
 
 Report documents should include:
 
@@ -394,13 +396,20 @@ Records are retained in accordance with the Django Software Foundation's data re
 
 ### Data Storage and Access
 
-Records are currently stored in a Google Spreadsheet (for status tracking) and Google Docs (for individual report documentation), shared only between members of the working group. The working group insists on not sharing the records outside the members due to confidentiality of information. Violating this will result in removal of the member from the working group.
+Records are currently stored in three locations:
+
+1. **Status Tracking Spreadsheet:** Contains anonymized case data (Case Code Names, Person Code Names, Status).
+2. **Person Identity Key:** A separate, highly restricted spreadsheet mapping "Real Names" to "Person Code Names".
+3. **Report Documentation:** Individual Google Docs for each case.
+
+All documents are shared only between members of the working group. The working group insists on not sharing the records outside the members due to confidentiality of information. Violating this will result in removal of the member from the working group.
 
 **Privacy Considerations:**
 
 - Always share documents with specific working group members rather than turning link sharing on
 - Use code names in document titles instead of real names or identifiers - even if a person doesn't have edit or view access to an individual report, they can still see document titles in shared folders
 - Code names prevent inadvertent identification and make it easier to discuss cases in public spaces (such as events)
+- **Identity Key Access:** Access to the Person Identity Key may be restricted to a smaller subset of the working group if necessary to manage conflicts of interest.
 
 **Member Access:**
 
@@ -429,22 +438,6 @@ The working group may provide further suggestions on how to best manage this per
 This is in contrast to people who are not flagged, but did violate the CoC: in this case the working group feels there is no particular risk of further violations, and it would be excessive to notify conferences of their history.
 
 In summary, to flag a person/record means: "if this person attends a conference, or otherwise participates in the community, it would be irresponsible if the working group did not inform the conference of their past behaviour, and allowed the organisers to consider extra precautions".
-
-### Retention Terms
-
-The following default retention terms apply to records:
-
-- The working group assessed no violation occurred: no retention
-- The working group determined a violation occurred, but it is not possible to identify who was responsible: 6 months retention of reporter information, permanent retention of other information
-- A violation occurred and was resolved as far as the working group is concerned: 14 months retention
-- A violation occurred and the person/record is flagged, due to concern about their behaviour in the future: 26 months retention
-- A violation occurred, and the person is banned temporarily or permanently: retention for the period of the ban, plus 26 months
-
-After the retention term, personally identifiable information of both reporter and reported party will be removed. General information about the incident will remain.
-
-Due to the roughly yearly scheduling of Django conferences, which are a source of a large part of the Code of Conduct reports, a person with repeated violations is likely to only re-occur in the reports after about a year, even if their behaviour is consistently an issue. Therefore, the retention term for case 3 is basically "until after the next DjangoCon in that region" and for case 4 and 5 it is "until after two DjangoCons in that region".
-
-These records are used to form our [statistics](statistics.md).
 
 ### Privacy Policy Commitments
 
