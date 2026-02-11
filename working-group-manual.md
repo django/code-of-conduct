@@ -399,7 +399,7 @@ Records are retained in accordance with the Django Software Foundation's data re
 Records are currently stored in three locations:
 
 1. **Status Tracking Spreadsheet:** Contains anonymized case data (Case Code Names, Person Code Names, Status).
-2. **Person Identity Key:** A separate, highly restricted spreadsheet mapping "Real Names" to "Person Code Names".
+2. **Person Identity Key:** A separate, highly restricted spreadsheet mapping "Real Names" to "Person Code Names" and tracking report counts and highest recorded consequence.
 3. **Report Documentation:** Individual Google Docs for each case.
 
 All documents are shared only between members of the working group. The working group insists on not sharing the records outside the members due to confidentiality of information. Violating this will result in removal of the member from the working group.
