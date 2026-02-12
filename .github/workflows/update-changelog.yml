@@ -1,0 +1,41 @@
+name: Update changelog
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pull-requests: read
+
+jobs:
+  update-changelog:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate changelog entry
+        shell: bash
+        run: |
+          bash scripts/update_changelog.sh
+
+      - name: Commit changelog
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if git diff --quiet -- CHANGELOG.md; then
+            echo "No changelog updates to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add CHANGELOG.md
+          git commit -m "Update changelog"
+          git push
