@@ -163,7 +163,7 @@ what action (if any) we'll be taking.
 Finally, the Working Group will make a report on the situation to the DSF
 board. The board may choose to issue a public report of the incident.
 
-## If Your Report Concerns a Working Group Member
+## If Your Report Concerns a Code of Conduct Working Group Member
 
 ### Conflicts of Interest
 
