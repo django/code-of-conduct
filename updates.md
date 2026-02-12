@@ -8,7 +8,7 @@ for editing FAQs as necessary.
 ## Proposing Changes
 
 Any member of the Django community may propose changes to the Code of Conduct docs.
-Proposals should be made by [opening an issue](https://github.com/django/code-of-conduct/issues/new?template=BLANK_ISSUE) on the [Django Code of Conduct
+Proposals should be made by [opening an issue](https://github.com/django/code-of-conduct/issues/new?template=coc-change-proposal.md) on the [Django Code of Conduct
 repository](https://github.com/django/code-of-conduct/) with a clear description of the
 proposed change and the rationale behind it. Ideally the proposer will also update the
 CHANGELOG.md file with a brief summary of the proposed change; or the Code of Conduct Working Group
