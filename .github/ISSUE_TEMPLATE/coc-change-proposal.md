@@ -14,6 +14,7 @@ labels: ["proposal"]
 ## Proposed Change
 
 Provide a clear description of the change you're proposing. If proposing a text change, include:
+
 - What text should change
 - What it should change to
 - Why this change is needed

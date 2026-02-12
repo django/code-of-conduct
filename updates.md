@@ -55,5 +55,6 @@ changes to the documentation are made without forcing people through the
 experience of looking at commit log. This may also include summary of rationale behind
 a change.
 This changelog applies to modifications made to this document outlining the process for proposing changes to the Code of Conduct. Changes to the Code of Conduct itself are handled separately at [CHANGELOG.md](CHANGELOG.md).
+
 - 2026-01-14
   - Created this document
