@@ -361,10 +361,12 @@ Regardless of the outcome, we note each report and outcome in our records. The s
 - **Resolution Date** - When the status was set to Resolved
 - **Safety Risk** - Yes/No - Does this incident pose a safety risk or include threats to physical safety?
 - **Ongoing Harassment** - Yes/No/Maybe - Is there a risk of repeated behavior?
-- **Consequences** - Enforcement actions taken (e.g., "None", "Warning", "First Suspension", "Second Suspension", "Ban", "Other")
+- **Consequences** - Enforcement actions taken (e.g., "Not a violation", "Out of scope", "No action taken", "Warning", "First Suspension", "Second Suspension", "Ban", "Other")
 - **Documents** - Link to detailed documentation of the case (see below)
 
 Keep resolutions and notes vague enough that working group members with a conflict of interest don't know the details of the incident. Use gender-neutral language when describing the reported person in the spreadsheet.
+
+In the case that more than one person is reported in the same case, add a new row for each additional person, with the same Case Code Name but a different Person Code Name. This allows us to track multiple reports about the same individual across different cases while keeping the spreadsheet organized.
 
 ### Report Documentation
 
