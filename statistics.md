@@ -6,7 +6,7 @@ years.
 
 These statistics are compiled on an ongoing basis by the Code of Conduct Working Group.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS827MHQLiuFqPT9d9Z9ySrz-slO6_28JbdwWn5yyYznx9GoRlOX0AHSD3MJAcnBYV5fyhpXbkoIt6_/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="800" height="600" frameborder="0"></iframe>
+<!--<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS827MHQLiuFqPT9d9Z9ySrz-slO6_28JbdwWn5yyYznx9GoRlOX0AHSD3MJAcnBYV5fyhpXbkoIt6_/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="800" height="600" frameborder="0"></iframe>-->
 
 [Django Code of Conduct Statistics](https://docs.google.com/spreadsheets/d/e/2PACX-1vS827MHQLiuFqPT9d9Z9ySrz-slO6_28JbdwWn5yyYznx9GoRlOX0AHSD3MJAcnBYV5fyhpXbkoIt6_/pubhtml?gid=0&single=true&widget=true&headers=false)
 
