@@ -27,6 +27,25 @@ number is still too low, a call for volunteers is published on Django blog.
 - Thibaud Colas
 - Natalia Bidart, liaison for Online Communities working group
 
+## Member terms
+
+Starting on 25th May, 2016, working group decided to introduce fixed-term membership.
+Each member of the working group is only obligated to serve on the working group for a
+fixed period of time, with 6-9 months being a default term. The idea behind it allows
+members of the working group to step down from serving without feeling guilty, and
+assumes an opt-in membership instead of opt-out, as it was thus far.
+
+In February 2026, the working group updated our terms to be annual. Every January the
+chair or vice-chair will ask members if they would like to continue for another term.
+If a member does not respond within a week, they will be removed from the working group.
+If a member wants to step down, they can do so at any time by notifying the chair
+or vice-chair.
+
+Members who do not participate over a 90 day period without prior notification to the
+chair or vice-chair will be removed from the working group during the next regular
+meeting. Participation includes any mix of attending meetings, responding to emails
+or Slack messages, or contributing to the working group's documentation or processes.
+
 ## Past members of the working group
 
 - Jay Miller
