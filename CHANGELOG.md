@@ -1,5 +1,11 @@
 # Django Code of Conduct Documentation Change Log
 
+## 2026-02-13: Use gh cli instead of third-party action for PR creation
+
+- Change changelog workflow to create PR instead of direct push
+- Update issue template and updates
+
+
 This document should be updated whenever a change is made after this
 documentation will be made public. This is to transparently show how and what
 changes to the documentation are made without forcing people through the
