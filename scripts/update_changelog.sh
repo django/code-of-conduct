@@ -78,6 +78,7 @@ generate_entries_from_range() {
   local range="$1"
 
   git log "${range}" --no-merges --pretty=format:%s | \
+    grep -v '^Update changelog$' | \
     trim_line | \
     awk 'NF' | \
     awk '!seen[$0]++'
