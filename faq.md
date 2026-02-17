@@ -18,7 +18,6 @@ However, we do expect that people will abide by the spirit and words of the CoC 
 
 In practice, this means the Django forum, bug tracking and code review tools, and "official" Django events such as DjangoCons. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
-<!--
 ## Why did Django adopt [Contributor Covenant 3](https://www.contributor-covenant.org/version/3/0/code_of_conduct/)?
 
 In 2026, Django updated its Code of Conduct for the first time since 2014. After a year of discussion about how best to update our CoC, [we were inspired by the BeeWare Project's adoption of Contributor Covenant](https://github.com/beeware/.github/pull/254) and recognized it as a strong foundation for Django's needs.
@@ -29,7 +28,6 @@ We chose Contributor Covenant 3 because:
 - It [more clearly outlines](https://www.contributor-covenant.org/version/3/0/code_of_conduct/#our-pledge) who we seek to protect in our community, in line with our [DEI values](https://github.com/django/.github/blob/main/DEI.md)
 - It provides clearer examples of both [encouraged](https://www.contributor-covenant.org/version/3/0/code_of_conduct/#encouraged-behaviors) and [discouraged](https://www.contributor-covenant.org/version/3/0/code_of_conduct/#restricted-behaviors) behaviors, making expectations more explicit
 - It includes a well-defined [enforcement ladder](https://www.contributor-covenant.org/version/3/0/code_of_conduct/#addressing-and-repairing-harm) focused on repairing harm and progressive responses
--->
 
 ## What about events funded by the Django Software Foundation?
 
