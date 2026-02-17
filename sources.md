@@ -26,6 +26,12 @@ Early versions drew from [PyCon 2013 Procedure for Handling Harassment Incidents
 
 In 2026, we substantially revised our enforcement materials to incorporate best practices from:
 
+### Contributor Covenant 3
+
+[Contributor Covenant Enforcement Resources](https://www.contributor-covenant.org/resources) provided a wealth of materials on enforcement processes, transparency, and community communication.
+
+**License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+
 ### Python Software Foundation
 
 - [PSF Code of Conduct](https://policies.python.org/python.org/code-of-conduct/)
@@ -40,6 +46,16 @@ These materials provided structured frameworks for evaluating reports (jurisdict
 [OpenJS Foundation Code of Conduct Enforcement Materials](https://github.com/openjs-foundation/cross-project-council/tree/main/conduct) provided guidance on communications, transparency, and working with distributed online communities.
 
 **License:** [MIT License](https://github.com/openjs-foundation/cross-project-council/blob/main/LICENSE)
+
+### Mozilla
+
+[Mozilla's Code of Conduct Enforcement Ladder](https://github.com/mozilla/inclusion) provided inspiration for our enforcement approach, particularly the graduated response framework.
+
+**License:** [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
+
+### Microsoft
+
+[Microsoft's Responsible AI Principles](https://opensource.microsoft.com/codeofconduct/) informed our approach to responsible use of AI-generated content.
 
 ## Additional Influences
 
