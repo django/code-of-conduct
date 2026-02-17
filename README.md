@@ -17,7 +17,7 @@ Public-facing documentation for community members:
 - [Reporting Guide](reporting-guide.md) - How to report Code of Conduct violations
 - [Enforcement Ladder](enforcement-ladder.md) - Overview of enforcement actions
 - [FAQ](faq.md) - Frequently asked questions about the Code of Conduct
-- [Support for Conference Organizers](conferences.md) - How we support event organizers
+- [Support for Event Organizers](events.md) - How we support event organizers
 - [Transparency](transparency.md) - How we maintain transparency and accountability
 
 ## Documentation for Working Group Members

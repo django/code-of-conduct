@@ -39,18 +39,18 @@ environments at events.
 
 ## After the event
 
-Conferences in the Django community are strongly encouraged to keep reports
+Events in the Django community are strongly encouraged to keep reports
 on all Code of Conduct incidents they handle, and send these reports to the
-working group after the end of the conference. Reports should include names
+working group after the end of the event. Reports should include names
 of people involved and, ideally, a description of the facts determined by
-the conference team, the review of the incident, actions taken, and responses
+the event team, the review of the incident, actions taken, and responses
 to actions taken. We also appreciate any screenshots of original slack or
 twitter messages, or recordings of talks, that show the violation, and
 copies of message exchanges between the team and any reporters or reported parties.
 
-Upon receiving reports from a conference, the working group will:
+Upon receiving reports from an event, the working group will:
 
-- Confirm receipt of the reports to the conference.
+- Confirm receipt of the reports to the event.
 - Review all reports.
 - Assess whether any additional action from the working group is needed.
 - Record all reports in the working group's records.
@@ -65,7 +65,7 @@ Publishing a transparency report after the event concludes is a critical step
 for building trust within the community and ensuring the community that any issues
 that have been reported have been handled in an appropriate manner.
 
-This guide is provided for conference organizers. We particularly hope it is
+This guide is provided for event organizers. We particularly hope it is
 useful for Conference Chairs and Code of Conduct responders.
 
 Note that this is the public-facing summary transparency report. For operational purposes, an event should also
@@ -114,7 +114,7 @@ attendees to find.
 The main part of the report will be the statistics of reports received (including past 3-5 years historical statistics can be helpful for
 comparison) and the report status/progress for each report.
 
-If there was a post-conference survey asking attendees about their confidence in
+If there was a post-event survey asking attendees about their confidence in
 reporting issues, the results of that survey can be included in the following
 year's transparency report.
 

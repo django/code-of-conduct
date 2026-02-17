@@ -78,7 +78,7 @@ Django-sponsored events (such as DjangoCon conferences) are required to have the
 - The reporter
 - The reported party
 
-The Code of Conduct Working Group will coordinate with event organizers to determine appropriate responses that respect both the event's autonomy and Django's community standards. For detailed guidance on supporting event organizers, see [conferences.md](conferences.md).
+The Code of Conduct Working Group will coordinate with event organizers to determine appropriate responses that respect both the event's autonomy and Django's community standards. For detailed guidance on supporting event organizers, see [events.md](events.md).
 
 ### Django Online Spaces
 

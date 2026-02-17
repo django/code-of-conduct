@@ -127,7 +127,7 @@ We also encourage transparency in Django community spaces that handle their own 
 - Online space moderators should have clear, public moderation guidelines
 - Local communities should document their enforcement approaches
 
-We're available to support other Django spaces in developing their own transparency practices. See our [conference support documentation](conferences.md) for more information.
+We're available to support other Django spaces in developing their own transparency practices. See our [event support documentation](events.md) for more information.
 
 ## Future Transparency Initiatives
 
