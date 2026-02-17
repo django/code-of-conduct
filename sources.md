@@ -30,8 +30,9 @@ In 2026, we substantially revised our enforcement materials to incorporate best 
 
 - [PSF Code of Conduct](https://policies.python.org/python.org/code-of-conduct/)
 - [PSF Code of Conduct Working Group Enforcement Procedures](https://policies.python.org/python.org/code-of-conduct/Enforcement-Procedures/)
+- [PSF Transparency Report Guidelines](https://policies.python.org/python.org/code-of-conduct/Transparency-Report-Guidelines/)
 
-These materials provided structured frameworks for evaluating reports (jurisdiction, impact, risk), detailed privacy and documentation procedures, and guidance on behavioral modification plans versus consequences.
+These materials provided structured frameworks for evaluating reports (jurisdiction, impact, risk), detailed privacy and documentation procedures, guidance on behavioral modification plans versus consequences, and best practices for conference transparency reporting.
 
 **License:** [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/)
 
