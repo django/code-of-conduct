@@ -90,6 +90,7 @@ This Code of Conduct applies to the following online spaces managed by the Djang
 - GitHub repositories, issue trackers, and pull requests under Django organizations
 - Official Django social media accounts
 - Any other online space administered by the Django project or Django Software Foundation
+- Any other space where their Code of Conduct specifically states that the Django Code of Conduct applies (e.g., [Djangonaut Space](https://github.com/djangonaut-space/program/blob/main/CODE_OF_CONDUCT.md#what-if-your-report-concerns-a-possible-violation-by-an-organizer))
 
 This Code of Conduct applies to the following people in Django online spaces:
 
