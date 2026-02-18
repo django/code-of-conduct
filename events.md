@@ -45,7 +45,7 @@ working group after the end of the event. Reports should include names
 of people involved and, ideally, a description of the facts determined by
 the event team, the review of the incident, actions taken, and responses
 to actions taken. We also appreciate any screenshots of original slack or
-twitter messages, or recordings of talks, that show the violation, and
+social media messages, or recordings of talks, that show the violation, and
 copies of message exchanges between the team and any reporters or reported parties.
 
 Upon receiving reports from an event, the working group will:
