@@ -50,14 +50,6 @@ We agree to restrict the following behaviors in our community. Instances, threat
 6. **Retaliation.** Taking adverse action against someone for reporting a violation of this Code of Conduct or participating in an investigation.
 7. **Bad-faith reporting.** Repeatedly reporting the same or similar incidents after they have been deemed not to be violations, or otherwise submitting reports intended to harass or burden the working group or reported parties.
 
-### Weapons Policy
-
-To ensure the safety and comfort of all attendees, weapons are not allowed at Django events. We recognize that the presence of weapons can make community members feel unsafe, particularly those who have experienced trauma.
-
-Prohibited items include but are not limited to: explosives (including fireworks), guns, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others.
-
-If you are found to be in possession of a weapon, event staff will ask you to remove it from the venue. You may return to the event once the weapon has been secured elsewhere. We appreciate your understanding and cooperation in maintaining a safe space for everyone.
-
 ## Reporting an Issue
 
 Tensions can occur between community members even when they are trying their best to collaborate. Not every conflict represents a code of conduct violation, and this Code of Conduct reinforces encouraged behaviors and norms that can help avoid conflicts and minimize harm.
