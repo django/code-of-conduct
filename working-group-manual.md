@@ -25,7 +25,7 @@ All responses to reports of conduct violations will be managed by the [Code of C
 
 The [Django Software Foundation's Board of Directors](https://www.djangoproject.com/foundation/#board) ("the board") will establish this working group, comprised of at least three members. One member will be designated chair of the working group and will be responsible for all reports back to the board. The board will review membership on a regular basis.
 
-For information about current and past members, see [membership.md](membership.md).
+For information about current and past members of the Code of Conduct Working Group, see [membership.md](membership.md).
 
 ## Coordination with Online Community Working Group
 
