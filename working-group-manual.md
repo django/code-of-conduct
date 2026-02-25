@@ -64,7 +64,7 @@ The Code of Conduct applies in official event spaces, including:
 - Sponsor and exhibitor halls
 - Social events and meal areas
 - Hallways, walkways, and common areas that connect event spaces
-
+Any physical spaces within the venue premises where attendees, speakers, sponsors, or staff may interact
 The Code of Conduct also applies to interactions with official event accounts and spaces on social media and digital platforms, including:
 
 - Comments on official event hashtags
