@@ -41,6 +41,7 @@ If a member does not respond within a week, they will be removed from the workin
 If a member wants to step down, they can do so at any time by notifying the chair
 or vice-chair.
 
+Upon onboarding or offboarding of working group members, the chair or vice-chair is responsible for reviewing and updating access to all Code of Conduct Working Group systems and records. Access will be granted to new members as necessary for their role and promptly revoked for departing members to maintain confidentiality and data security.
 Members who do not participate over a 90 day period without prior notification to the
 chair or vice-chair will be removed from the working group during the next regular
 meeting. Participation includes any mix of attending meetings, responding to emails
