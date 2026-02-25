@@ -10,6 +10,8 @@ consider this documentation to be finished or complete. However, we hope it's
 going to be useful base for other communities to not only adopt, but also
 implement and enforce the Code of Conduct.
 
+**Note:** Within the scope of all the documents in this repository, any reference to the “working group” shall mean the "Code of Conduct Working Group", unless explicitly specified otherwise.
+
 ## Documentation for the Community
 
 Public-facing documentation for community members:
