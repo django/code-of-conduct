@@ -20,6 +20,10 @@ Public-facing documentation for community members:
 - [Enforcement Ladder](enforcement-ladder.md) - Overview of enforcement actions
 - [FAQ](faq.md) - Frequently asked questions about the Code of Conduct
 - [Support for Event Organizers](events.md) - How we support event organizers
+<<<<<<< HEAD
+=======
+- [Support for Affiliated Programs](affiliated-programs.md) - How to become an affiliated program and transparency reporting requirements
+>>>>>>> docs/update-process-docs
 - [Transparency](transparency.md) - How we maintain transparency and accountability
 
 ## Documentation for Working Group Members

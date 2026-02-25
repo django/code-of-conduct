@@ -109,6 +109,12 @@ Each online space is encouraged to provide:
 - Clear contact information for reporting violations (<conduct@djangoproject.com>)
 - Identification of space moderators or administrators
 
+### Affiliated Projects and Communities
+
+Django-related projects and spaces may ask to designate the Django Code of Conduct Working Group as an escalation point in their own Code of Conduct process. To become an affiliated program, projects must adopt their own complementary Code of Conduct, request inclusion via [conduct@djangoproject.com](mailto:conduct@djangoproject.com), outline escalation procedures in their reporting process, and publish regular transparency reports.
+
+For complete requirements, escalation criteria, and transparency reporting guidelines, see [affiliated-programs.md](affiliated-programs.md).
+
 ### Official Representation
 
 The Code of Conduct applies when an individual is officially representing the Django community in public spaces. Examples of official representation include:
