@@ -418,7 +418,7 @@ All documents are shared only between members of the working group. The working 
 
 - Once a member steps down from the working group, their access to the records is removed
 - When onboarding new working group members, they should be provided with a list of code names for all existing reports
-- The new member should state whether they have any conflicts of interest with reviewing documentation for those cases
+- The new member should state whether they have any conflicts of interest with reviewing documentation for those cases. Refer [Conflicts of Interest](#conflicts-of-interest).
 - If no conflict exists, they will be given access to those report documents
 - All members of the working group involved in handling a specific incident report have access to all records related to that report, ensuring informed decision-making
 
