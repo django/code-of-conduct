@@ -34,7 +34,7 @@ The [Online Community Working Group](https://github.com/django/dsf-working-group
 The Code of Conduct Working Group becomes involved when:
 
 - A formal report is submitted directly to the Code of Conduct Working Group
-- A violation occurs across multiple Django spaces
+- A violation occurs across multiple Django spaces, which include but are not limited to: Django organization on GitHub, Django Discord, DSF Slack, Django Forum.
 - The Online Community Working Group escalates an issue that requires formal Code of Conduct enforcement
 - An issue at a Django event or sponsored event is escalated to the working group
 
