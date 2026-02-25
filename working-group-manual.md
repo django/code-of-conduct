@@ -40,6 +40,10 @@ The Code of Conduct Working Group becomes involved when:
 
 Each working group designates a liaison from its own members to facilitate coordination and communication between the groups.
 
+### Resolving Disagreements Between Working Groups
+
+In situations where the Code of Conduct Working Group and the Online Community Working Group cannot reach consensus in a timely manner on an issue that requires coordination between both groups, one or both working group chairs will escalate the matter to the [Django Software Foundation's Board of Directors](https://www.djangoproject.com/foundation/#board) for resolution.
+
 ## Scope
 
 This Code of Conduct applies to all spaces managed by the Django project or Django Software Foundation. The Code of Conduct also applies when an individual is officially representing the Django community in public spaces.
@@ -64,8 +68,8 @@ The Code of Conduct applies in official event spaces, including:
 - Sponsor and exhibitor halls
 - Social events and meal areas
 - Hallways, walkways, and common areas that connect event spaces
-Any physical spaces within the venue premises where attendees, speakers, sponsors, or staff may interact
-The Code of Conduct also applies to interactions with official event accounts and spaces on social media and digital platforms, including:
+  Any physical spaces within the venue premises where attendees, speakers, sponsors, or staff may interact
+  The Code of Conduct also applies to interactions with official event accounts and spaces on social media and digital platforms, including:
 
 - Comments on official event hashtags
 - Posts on event social media accounts
