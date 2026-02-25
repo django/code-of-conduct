@@ -94,7 +94,6 @@ This Code of Conduct applies to the following online spaces managed by the Djang
 - GitHub repositories, issue trackers, and pull requests under Django organizations
 - Official Django social media accounts
 - Any other online space administered by the Django project or Django Software Foundation
-- Any other space where their Code of Conduct specifically states that the Django Code of Conduct applies (e.g., [Djangonaut Space](https://github.com/djangonaut-space/program/blob/main/CODE_OF_CONDUCT.md#what-if-your-report-concerns-a-possible-violation-by-an-organizer))
 
 This Code of Conduct applies to the following people in Django online spaces:
 
@@ -108,6 +107,12 @@ Each online space is encouraged to provide:
 - A welcome message with a link to the Code of Conduct
 - Clear contact information for reporting violations (<conduct@djangoproject.com>)
 - Identification of space moderators or administrators
+
+### Affiliated Projects and Communities
+
+Django-related projects and spaces may ask to designate the Django Code of Conduct Working Group as an escalation point in their own Code of Conduct process. To become an affiliated program, projects must adopt their own complementary Code of Conduct, request inclusion via [conduct@djangoproject.com](mailto:conduct@djangoproject.com), outline escalation procedures in their reporting process, and publish regular transparency reports.
+
+For complete requirements, escalation criteria, and transparency reporting guidelines, see [affiliated-programs.md](affiliated-programs.md).
 
 ### Official Representation
 
