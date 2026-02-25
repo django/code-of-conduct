@@ -48,6 +48,7 @@ We agree to restrict the following behaviors in our community. Instances, threat
 4. **Irresponsible communication.** Failing to responsibly present content which includes, links or describes any other restricted behaviors.
 5. **Violating community guidelines.** Failing to follow community guidelines for any space covered by the [Online Community Working Group](https://github.com/django/dsf-working-groups/blob/main/active/online-community.md) or a sponsored event's own Code of Conduct.
 6. **Retaliation.** Taking adverse action against someone for reporting a violation of this Code of Conduct or participating in an investigation.
+7. **Bad-faith reporting.** Repeatedly reporting the same or similar incidents after they have been deemed not to be violations, or otherwise submitting reports intended to harass or burden the working group or reported parties.
 
 ### Weapons Policy
 
