@@ -75,7 +75,7 @@ The Code of Conduct also applies to interactions with official event accounts an
 Django-sponsored events (such as DjangoCon conferences) are required to have their own Code of Conduct and Code of Conduct team. Event organizers will enforce the code throughout the event. Issues at sponsored events can be escalated to the Django Code of Conduct Working Group by:
 
 - The event's Code of Conduct team
-- The reporter
+- The reporter: The person/group who submits the complaint
 - The reported party
 
 The Code of Conduct Working Group will coordinate with event organizers to determine appropriate responses that respect both the event's autonomy and Django's community standards. For detailed guidance on supporting event organizers, see [events.md](events.md).
