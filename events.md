@@ -31,6 +31,14 @@ environments at events.
   reach out to us and we will be able to help you through the process of creating
   one.
 
+- Event organizers should consider adopting additional safety policies that are
+  relevant to the location and context of their event. These may include policies
+  regarding weapons, accessibility requirements, health and safety protocols, or
+  other measures that will contribute to a safer and more inclusive experience for
+  all attendees. We encourage organizers to research local laws, cultural norms,
+  and community expectations when developing these policies. If you need guidance
+  on implementing location-specific safety measures, please reach out to us.
+
 ## During the event
 
 - If you encounter a Code of Conduct violation at your event that needs to be
