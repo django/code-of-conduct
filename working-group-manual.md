@@ -4,6 +4,8 @@ This is the internal manual for Django's Code of Conduct Working Group. It docum
 
 While this is an internal working document, we publish it publicly in the interests of transparency and to help other communities develop their own enforcement processes.
 
+NOTE: Within the scope of this document, any reference to the “working group” shall mean the "Code of Conduct Working Group", unless explicitly specified otherwise.
+
 ## Table of Contents
 
 - [The Code of Conduct Working Group](#the-code-of-conduct-working-group)
@@ -80,7 +82,7 @@ Django-sponsored events (such as DjangoCon conferences) are required to have the
 
 - The event's Code of Conduct team
 - The reporter: The person/group who submits the complaint
-- The reported party
+- The reported party: The person/group who is alleged to have violated the Code of Conduct
 
 The Code of Conduct Working Group will coordinate with event organizers to determine appropriate responses that respect both the event's autonomy and Django's community standards. For detailed guidance on supporting event organizers, see [events.md](events.md).
 
@@ -118,7 +120,7 @@ For complete requirements, escalation criteria, and transparency reporting guide
 
 The Code of Conduct applies when an individual is officially representing the Django community in public spaces. Examples of official representation include:
 
-- Using an official Django email address
+- Using an official Django email address <@djangoproject.com>
 - Posting via an official Django social media account
 - Acting as an appointed representative at an online or offline event
 - Speaking or presenting as a Django representative
@@ -230,7 +232,7 @@ When reviewing an incident, the working group will evaluate three key aspects:
 
 ### Impact
 
-- Did this incident occur publicly or privately? Public incidents affect more community members.
+- Did this incident occur publicly or privately? Public incidents may affect the broader community. Private incidents, though less visible, may cause substantial harm and are evaluated with equal seriousness.
 - Does this behavior negatively impact people from marginalized groups in our community?
 - How is the harmed party being negatively impacted?
 - Are community members likely to disengage if no action is taken?
@@ -320,7 +322,7 @@ Aligned with Contributor Covenant 3.0's focus on repairing harm, our communicati
 
 - **Support accountability.** When appropriate enforcement actions include opportunities for repair (such as apologies or acknowledgment of responsibility), provide guidance on what meaningful accountability looks like. This might include acknowledging the specific harm caused, demonstrating understanding of the impact, and committing to behavior change.
 
-- **Use trauma-informed language.** Avoid language that minimizes harm ("just a misunderstanding") or blames those who were harmed ("they were too sensitive"). Use person-first language that separates the behavior from the individual's identity.
+- **Use trauma-informed language.** Avoid language that minimizes harm ("just a misunderstanding") or blames those who were harmed ("they were too sensitive"). Use person-first language that separates the behavior from the individual's identity. Refer to “the individual whose conduct was reported” rather than labeling someone by the behavior, and to “the individual who experienced harm” rather than defining someone by the harm.
 
 - **Respect everyone's dignity.** Even when addressing serious violations, communicate in ways that preserve the humanity of all involved. This doesn't mean avoiding consequences, but rather implementing them with respect and clarity.
 
