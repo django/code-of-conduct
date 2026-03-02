@@ -1,7 +1,7 @@
 # What is django/code-of-conduct?
 
-This repository is used by Django Software Foundation Code of Conduct committee
-to transparently describe how the committee enforces the Code of Conduct for
+This repository is used by Django Software Foundation Code of Conduct Working Group
+to transparently describe how the working group enforces the Code of Conduct for
 Django community. It's our internal set of documentation with processes that
 drive our work that we decided to make public with an aim to:
 
@@ -21,7 +21,7 @@ While contributing ideas and feedback, please keep in mind that this is still
 our internal documentation, so suggesting concepts that work well for other
 communities may not directly translate to our work.
 
-### Changelog 
+### Changelog
 
 When submitting a pull request to suggest a change, make sure to also update
 our [change log](CHANGELOG.md).
@@ -30,5 +30,4 @@ our [change log](CHANGELOG.md).
 
 This repository is also under the [Django Code of
 Conduct](https://www.djangoproject.com/conduct/). By contributing to it, you
-agree to comply with it. 
-
+agree to comply with it.
