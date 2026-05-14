@@ -122,7 +122,6 @@ The Code of Conduct Working Group will work with the Online Community Working Gr
 The Django Code of Conduct Working Group serves as an escalation point for the following affiliated Django-related programs and communities that maintain their own Code of Conduct processes:
 
 - **[Djangonaut Space](https://djangonaut.space)** - [Code of Conduct](https://github.com/djangonaut-space/program/blob/main/CODE_OF_CONDUCT.md)
-- **[Django Commons](https://django-commons.org)** - [Code of Conduct](https://github.com/django-commons/membership/blob/main/CODE_OF_CONDUCT.md)
 
 These programs follow their own Code of Conduct procedures but may escalate reports to the Django Code of Conduct Working Group in specific circumstances as outlined in their reporting procedures. For more information about affiliated programs, see our [Affiliated Programs documentation](affiliated-programs.md).
 
