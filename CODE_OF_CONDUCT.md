@@ -117,6 +117,14 @@ It applies to all community members in these spaces, including administrators, m
 
 The Code of Conduct Working Group will work with the Online Community Working Group and moderators to address reported violations and determine appropriate responses.
 
+### Affiliated Programs and Communities
+
+The Django Code of Conduct Working Group serves as an escalation point for the following affiliated Django-related programs and communities that maintain their own Code of Conduct processes:
+
+- **[Djangonaut Space](https://djangonaut.space)** - [Code of Conduct](https://github.com/djangonaut-space/program/blob/main/CODE_OF_CONDUCT.md)
+
+These programs follow their own Code of Conduct procedures but may escalate reports to the Django Code of Conduct Working Group in specific circumstances as outlined in their reporting procedures. For more information about affiliated programs, see our [Affiliated Programs documentation](affiliated-programs.md).
+
 ### Representing Django
 
 This Code of Conduct also applies when individuals are officially representing Django in public spaces. Examples include using an official Django email address, posting via official Django social media accounts, or acting as an appointed representative at online or offline events.
