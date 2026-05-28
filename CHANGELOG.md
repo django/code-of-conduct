@@ -2,9 +2,7 @@
 
 ## 2026-05-28: Add Djangonaut Space as an affiliated program
 
-- Update CODE_OF_CONDUCT.md to remove Django Commons
-- Add Djangonaut Space and Django Commons as affiliated programs
-
+- Add Djangonaut Space as an affiliated program
 
 ## 2026-04-15: Adopt Contributor Covenant 3
 
