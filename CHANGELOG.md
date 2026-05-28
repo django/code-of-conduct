@@ -1,5 +1,9 @@
 # Django Code of Conduct Documentation Change Log
 
+## 2026-05-28: Add Djangonaut Space as an affiliated program
+
+- Add Djangonaut Space as an affiliated program
+
 ## 2026-04-15: Adopt Contributor Covenant 3
 
 - Add in-person event requirements and CoC point of contact guidance
