@@ -1,5 +1,11 @@
 # Django Code of Conduct Documentation Change Log
 
+## 2026-08-18: Document Slack reminder requirement for suspension end dates
+
+- Add link to set a Slack reminder in manual
+- Update membership list
+
+
 ## 2026-07-09: Add Django Commons to the affiliated programs
 
 - ✨ Add Django Commons to the affiliated programs [closes #99]
