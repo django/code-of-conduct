@@ -1,5 +1,12 @@
 # Django Code of Conduct Documentation Change Log
 
+## 2026-08-19: Add expedited label to auto-generated changelog PRs
+
+- Add link to set a Slack reminder in manual
+- Update membership list
+- Document Slack reminder requirement for suspension end dates
+
+
 ## 2026-07-09: Add Django Commons to the affiliated programs
 
 - ✨ Add Django Commons to the affiliated programs [closes #99]
