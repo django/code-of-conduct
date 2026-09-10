@@ -356,6 +356,10 @@ Once a resolution is agreed upon, but before it is enacted, the working group wi
 
 However, the working group is not required to act on this feedback. The final decision rests with the working group, using their best judgment to balance the needs of the affected parties with the safety and health of the broader community.
 
+### Suspensions
+
+When a temporary suspension is enacted, the person leading the report must [set a Slack reminder](https://slack.com/help/articles/208423427-Set-a-reminder) for the working group to remove any blocks and bans on the date the suspension ends. This ensures suspended individuals are restored to good standing in a timely manner without requiring manual tracking.
+
 ### Reporting to the Board
 
 Finally, the working group will make a report for the DSF board via the board liaison. In case the incident or report involves a current member of the board, the working group will provide the report only to the other board members.
