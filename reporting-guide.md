@@ -13,6 +13,11 @@ law enforcement first.** If you are unsure what law enforcement agency
 is appropriate, please include this in your report and we will attempt
 to notify them.
 
+Please note that <conduct@djangoproject.com> is received by the entire Code of
+Conduct working group. If you would like to report more privately, please see
+the [Code of Conduct working group](https://www.djangoproject.com/foundation/teams/#code-of-conduct-team)
+page for the email addresses of the current chairs of the working group.
+
 ## Understanding When to Report
 
 Not every conflict or disagreement represents a Code of Conduct
